@@ -293,33 +293,6 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/HWAwDThz/items/KQCK3LTP",
-		"type": "book",
-		"title": "The Technological Society",
-		"publisher": "CreateSpace Independent Publishing Platform",
-		"number-of-pages": "570",
-		"source": "Google Books",
-		"abstract": ".\"..He goes through one human activity after another and shows how it has been technicized, rendered efficient, and diminished in the process.\"- Harper's Magazine",
-		"ISBN": "978-1-5376-0026-0",
-		"note": "Google-Books-ID: lYEjvgAACAAJ",
-		"language": "en",
-		"author": [
-			{
-				"family": "Ellul",
-				"given": "Jacques"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2016",
-					9,
-					11
-				]
-			]
-		}
-	},
-	{
 		"id": "http://zotero.org/users/local/HWAwDThz/items/SETR4ZSS",
 		"type": "book",
 		"title": "Ethics in an Age of Technology",
@@ -425,7 +398,7 @@
 	{
 		"id": "http://zotero.org/users/local/HWAwDThz/items/6GGI5RTW",
 		"type": "book",
-		"title": "Technology and Religion: Remaining Human C0-created World",
+		"title": "Technology and Religion: Remaining Human in a Co-created World",
 		"publisher": "Templeton Press",
 		"number-of-pages": "177",
 		"source": "Google Books",
@@ -2762,6 +2735,1706 @@
 					"2019",
 					1,
 					16
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/TGKT4KV7",
+		"type": "paper-conference",
+		"title": "Towards a Biblical View of Technology",
+		"source": "CiteSeer",
+		"abstract": "This paper describes how a biblical understanding of technology can change one’s perspective, enabling one to think differently about technology; its purpose, its use, and its impact. As a result, the familiar technologies we interact with every day will be viewed differently. The paper will provide a theoretical foundation rooted in the Bible along with a variety of other scholarly sources. The integration of faith and technology described will enable a more critical evaluation of technology, thus making it more likely that technology enables productivity without enslaving its owner and ensuring that one’s allegiance is not to a technological deity but to Jesus Christ. While this paper is focused on bringing a biblical perspective to the area of technology, the principles are applicable to other disciplines as well.",
+		"author": [
+			{
+				"family": "Whiting",
+				"given": "Stephen"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/9X82ZT78",
+		"type": "article-journal",
+		"title": "Technology and Man: A Christian Vision",
+		"container-title": "Technology and Culture",
+		"page": "422-442",
+		"volume": "3",
+		"issue": "4",
+		"source": "JSTOR",
+		"archive": "JSTOR",
+		"URL": "https://www.jstor.org/stable/3100994",
+		"DOI": "10.2307/3100994",
+		"ISSN": "0040-165X",
+		"shortTitle": "Technology and Man",
+		"author": [
+			{
+				"family": "W. Norris Clarke",
+				"given": "S. J."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1962"
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					16
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/G9FSZ2CM",
+		"type": "book",
+		"title": "The technological society",
+		"publisher": "Jonathan Cape",
+		"number-of-pages": "516",
+		"source": "Google Books",
+		"note": "Google-Books-ID: oLVEAAAAIAAJ",
+		"language": "en",
+		"author": [
+			{
+				"family": "Ellul",
+				"given": "Jacques"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1964"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/IY9DDLYZ",
+		"type": "book",
+		"title": "Beyond Paradise: Technology and the Kingdom of God",
+		"publisher": "Wipf and Stock Publishers",
+		"number-of-pages": "365",
+		"source": "Google Books",
+		"abstract": "Technology is shaping our culture and controlling our lives -- for better or for worse. Often, technology&#39;s benefits far outweigh its negative impacts, and technological advances can seem boundless. But the scientific-technological worldview tends to override other value systems. Indeed, this technological way of thinking has influenced many contemporary ideas, beliefs, values, habits, and ways of communicating. Furthermore, in addition to technology&#39;s well-known environmental impacts, social, aesthetic, and spiritual consequences are now emerging. How can we balance positive physical effects of technology with other ambiguous or negative impacts?   Some of the decisions we face have no precedent from which to draw wisdom. For this reason, the resources of Scripture and the Christian tradition must be brought to bear on technological questions: How is technology used and abused today? Does technological progress lead to human progress? How can Scripture help us, both individually and collectively, to manage technology&#39;s impact in proactive ways?   Swearengen uncovers a comprehensive scriptural mandate for managing technology. On his way to a theology of technology, he evaluates which advances are moving society in directions consistent with God&#39;s purposes. Beyond Paradise: Technology and the Kingdom of God aims to provide practical means for assessing technology&#39;s influence and for steering technology and its effects toward biblical ends.",
+		"ISBN": "978-1-4982-7503-3",
+		"note": "Google-Books-ID: t9jPDAAAQBAJ",
+		"shortTitle": "Beyond Paradise",
+		"language": "en",
+		"author": [
+			{
+				"family": "Swearengen",
+				"given": "Jack Clayton"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007",
+					3,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/Z47UQYJ3",
+		"type": "song",
+		"title": "Ep 1: What is Transhumanism?",
+		"abstract": "In this first episode, Micah Redding and Amy Gaskin ask the question 'What is Transhumanism?', and then go on to explore the landscape at the intersection of Christianity and Transhumanist thought.",
+		"URL": "https://www.christiantranshumanism.org/podcast/1",
+		"shortTitle": "Ep 1",
+		"language": "en",
+		"author": [
+			{
+				"family": "Redding",
+				"given": "Micah"
+			},
+			{
+				"family": "Gaskin",
+				"given": "Amy"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					7,
+					6
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/8V3HJBY8",
+		"type": "song",
+		"title": "Ep 2: Doomsday!",
+		"abstract": "In this episode, Micah Redding and Amy Gaskin talk about doomsday!",
+		"URL": "https://www.christiantranshumanism.org/podcast/2",
+		"shortTitle": "Ep 2",
+		"language": "en",
+		"author": [
+			{
+				"family": "Redding",
+				"given": "Micah"
+			},
+			{
+				"family": "Gaskin",
+				"given": "Amy"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					8,
+					3
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/WF3MU7FA",
+		"type": "song",
+		"title": "Ep 3: Practical Steps",
+		"abstract": "In this episode, Micah Redding and Amy Gaskin start talking about practicality, and then end up discussing Joseph Campbell, Harry Potter, transcendence, and speculative theology. Don't worry, it's all connected.",
+		"URL": "https://www.christiantranshumanism.org/podcast/3",
+		"shortTitle": "Ep 3",
+		"language": "en",
+		"author": [
+			{
+				"family": "Redding",
+				"given": "Micah"
+			},
+			{
+				"family": "Gaskin",
+				"given": "Amy"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					8,
+					10
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/JC3D72LD",
+		"type": "song",
+		"title": "Ep 4: Life Extension",
+		"abstract": "In this episode, Micah Redding and Amy Gaskin talk about radical life extension.",
+		"URL": "https://www.christiantranshumanism.org/podcast/4",
+		"shortTitle": "Ep 4",
+		"language": "en",
+		"author": [
+			{
+				"family": "Redding",
+				"given": "Micah"
+			},
+			{
+				"family": "Gaskin",
+				"given": "Amy"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					8,
+					17
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/46STCBA4",
+		"type": "song",
+		"title": "Ep 5: James Hughes, Religious Transhumanism & the Longevity Dividend",
+		"abstract": "Micah Redding &amp; James Hughes explore cyber-Buddhism, religious transhumanism, and the longevity dividend, covering topics like Universal Basic Income, the Christian theology of personal identity, and the importance of a powerful vision for the future.",
+		"URL": "https://www.christiantranshumanism.org/podcast/5",
+		"shortTitle": "Ep 5",
+		"language": "en",
+		"author": [
+			{
+				"family": "Redding",
+				"given": "Micah"
+			},
+			{
+				"family": "Hughes",
+				"given": "James"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					10,
+					26
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/DB2ARCH2",
+		"type": "song",
+		"title": "Ep 6: Evil Capitalists!",
+		"abstract": "Micah &amp; Amy discuss whether transhumanism is just an apologetic for capitalism, what will drive the economies of the future, and how Christians need to get out and play more…even if it means finding yourself mixed up in a plot to overthrow Hitler.",
+		"URL": "https://www.christiantranshumanism.org/podcast/6",
+		"shortTitle": "Ep 6",
+		"language": "en",
+		"author": [
+			{
+				"family": "Redding",
+				"given": "Micah"
+			},
+			{
+				"family": "Gaskin",
+				"given": "Amy"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					11,
+					2
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/6WNVFSIZ",
+		"type": "song",
+		"title": "Ep 7: Steve Fuller, Space Arks & the Proactionary Imperative",
+		"abstract": "Micah Redding and Dr. Steve Fuller discuss SPACE ARKS, the meaning of faith, the risk-taking nature of science, and why the future of politics isn't about left and right.",
+		"URL": "https://www.christiantranshumanism.org/podcast/7",
+		"shortTitle": "Ep 7",
+		"language": "en",
+		"author": [
+			{
+				"family": "Redding",
+				"given": "Micah"
+			},
+			{
+				"family": "Fuller",
+				"given": "Steve"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					11,
+					9
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/GRXCT9U4",
+		"type": "song",
+		"title": "Ep 8: Liz Parrish, Life Extension & Reversing the Aging Process",
+		"abstract": "Micah Redding talks to Liz Parrish, the first human to be given gene therapy to reverse aging. Micah &amp; Liz discuss risk-taking, the potential issues with life extension, and what happens if this treatment becomes available to the world.",
+		"URL": "https://www.christiantranshumanism.org/podcast/8",
+		"shortTitle": "Ep 8",
+		"language": "en",
+		"author": [
+			{
+				"family": "Redding",
+				"given": "Micah"
+			},
+			{
+				"family": "Parrish",
+				"given": "Liz"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					11,
+					16
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/5RMGDFE8",
+		"type": "song",
+		"title": "Ep 9: Thomas Jay Oord and the Open Future of God",
+		"abstract": "Micah Redding &amp; Thomas Jay Oord talk about free will, predestination, and the open-ended future of God - and explore deep questions about miracles, science, and recent blockbuster movies.",
+		"URL": "https://www.christiantranshumanism.org/podcast/9",
+		"shortTitle": "Ep 9",
+		"language": "en",
+		"author": [
+			{
+				"family": "Redding",
+				"given": "Micah"
+			},
+			{
+				"family": "Oord",
+				"given": "Thomas Jay"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					11,
+					23
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/MA9BWM2X",
+		"type": "song",
+		"title": "Ep 10: Adam Ericksen, Rene Girard & The Mechanisms of Violence",
+		"abstract": "Micah Redding talks to Adam Ericksen about Rene Girard, the mechanisms of violence, and how Jesus unravels the ancient cycle of myth and scapegoating.",
+		"URL": "https://www.christiantranshumanism.org/podcast/10",
+		"shortTitle": "Ep 10",
+		"language": "en",
+		"author": [
+			{
+				"family": "Redding",
+				"given": "Micah"
+			},
+			{
+				"family": "Ericksen",
+				"given": "Adam"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					11,
+					30
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/6CFVL5X9",
+		"type": "song",
+		"title": "Ep 11: Singularity & Superheroes",
+		"abstract": "Micah and Amy discuss the disruptiveness of the Singularity, the creepiness of robots, the awesomeness of superheroes, and the importance of origin stories.",
+		"URL": "https://www.christiantranshumanism.org/podcast/11",
+		"shortTitle": "Ep 11",
+		"language": "en",
+		"author": [
+			{
+				"family": "Redding",
+				"given": "Micah"
+			},
+			{
+				"family": "Gaskin",
+				"given": "Amy"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					12,
+					14
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/EBJ5SM48",
+		"type": "song",
+		"title": "Ep 12: Politics & Transhumanism",
+		"abstract": "Micah and Amy venture into the forbidden world of transhumanist political commentary, while Micah keeps trying to change the subject to almost anything else, including Alien Death Stars, Greek tragedies, time travel, and the first Christian heresy.",
+		"URL": "https://www.christiantranshumanism.org/podcast/12",
+		"shortTitle": "Ep 12",
+		"language": "en",
+		"author": [
+			{
+				"family": "Redding",
+				"given": "Micah"
+			},
+			{
+				"family": "Gaskin",
+				"given": "Amy"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					2,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/MGH383TN",
+		"type": "song",
+		"title": "Ep 13: Cloning Jesus with Christian Piatt",
+		"abstract": "What if someone cloned Jesus, to kickstart the second coming? What if fringe religious groups USED science for a change? Christian Piatt explains his religious sci-fi thriller, and tackles thorny questions in science, faith, and progressive spirituality.",
+		"URL": "https://www.christiantranshumanism.org/podcast/13",
+		"shortTitle": "Ep 13",
+		"language": "en",
+		"author": [
+			{
+				"family": "Redding",
+				"given": "Micah"
+			},
+			{
+				"family": "Piatt",
+				"given": "Christian"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					2,
+					29
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/FHK3LN6K",
+		"type": "song",
+		"title": "Ep 14: Paul Wallace & The Stars Beneath Us",
+		"abstract": "Paul Wallace talks about the exhilaration and vertigo of living in expanding cosmos, and how this both humbles us, and helps us rise to the challenge of suffering.",
+		"URL": "https://www.christiantranshumanism.org/podcast/14",
+		"shortTitle": "Ep 14",
+		"language": "en",
+		"author": [
+			{
+				"family": "Redding",
+				"given": "Micah"
+			},
+			{
+				"family": "Wallace",
+				"given": "Paul"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					3,
+					16
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/DZI229QE",
+		"type": "song",
+		"title": "Ep 15: Back to the Future!",
+		"abstract": "Where are our hoverboards? Our flying cars? Where is the future we were promised? Micah and Amy go Back to the Future, just in time to get this episode out six months late!",
+		"URL": "https://www.christiantranshumanism.org/podcast/15",
+		"shortTitle": "Ep 15",
+		"language": "en",
+		"author": [
+			{
+				"family": "Redding",
+				"given": "Micah"
+			},
+			{
+				"family": "Gaskin",
+				"given": "Amy"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					4,
+					21
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/SU4URM8L",
+		"type": "song",
+		"title": "Ep 16: Wilderness",
+		"abstract": "The deep challenges of losing your faith community, questioning your own beliefs, and dealing with the difficult process of building a new world.",
+		"URL": "https://www.christiantranshumanism.org/podcast/16",
+		"shortTitle": "Ep 16",
+		"language": "en",
+		"author": [
+			{
+				"family": "Redding",
+				"given": "Micah"
+			},
+			{
+				"family": "Gaskin",
+				"given": "Amy"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					5,
+					2
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/ITIUH6II",
+		"type": "song",
+		"title": "Ep 17: Kevin Kelly and The Inevitable",
+		"abstract": "What's Inevitable, and what we get to choose? Micah Redding and Kevin Kelly discuss rapidly approaching technological change, the advent of Artificial Intelligence, and how technology challenges and illuminates our understanding of God, faith, and ourselves.",
+		"URL": "https://www.christiantranshumanism.org/podcast/17",
+		"shortTitle": "Ep 17",
+		"language": "en",
+		"author": [
+			{
+				"family": "Redding",
+				"given": "Micah"
+			},
+			{
+				"family": "Kelly",
+				"given": "Kevin"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					6,
+					7
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/9E6RFM8D",
+		"type": "song",
+		"title": "Ep 18: Self-Driving Cars & Animated GIFs save the world",
+		"abstract": "Amy and Micah tackle self-driving cars, the rise of nomadic culture, how stories create technology, and why animated GIFs are saving the world.",
+		"URL": "https://www.christiantranshumanism.org/podcast/18",
+		"shortTitle": "Ep 18",
+		"language": "en",
+		"author": [
+			{
+				"family": "Redding",
+				"given": "Micah"
+			},
+			{
+				"family": "Gaskin",
+				"given": "Amy"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					6,
+					14
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/QS4TDYVG",
+		"type": "song",
+		"title": "Ep 19: Frank Tipler & The End of the Universe",
+		"abstract": "What does physics say about the ultimate future? Professor Tipler explains the Omega Point Theory, how life can exist all the way to the end of time, and what Christianity has to say about all of this.",
+		"URL": "https://www.christiantranshumanism.org/podcast/19",
+		"shortTitle": "Ep 19",
+		"language": "en",
+		"author": [
+			{
+				"family": "Redding",
+				"given": "Micah"
+			},
+			{
+				"family": "Tipler",
+				"given": "Frank"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					6,
+					21
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/Q97L5P7A",
+		"type": "song",
+		"title": "Ep 20: Predestination vs Free Will",
+		"abstract": "Why do some people believe it's all determined, and others believe it's up to us? Religious or irreligious, scientist or non-scientist, transhumanist or singularitarian—people can't agree on this subject. We look to CS Lewis, Ghostbusters, the Beatles, and Jupiter's moon for answers!",
+		"URL": "https://www.christiantranshumanism.org/podcast/20",
+		"shortTitle": "Ep 20",
+		"language": "en",
+		"author": [
+			{
+				"family": "Redding",
+				"given": "Micah"
+			},
+			{
+				"family": "Gaskin",
+				"given": "Amy"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					7,
+					25
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/2PJL2VW6",
+		"type": "song",
+		"title": "Ep 21: Science Mike—Losing & Finding God",
+		"abstract": "How to lose your religion, disrupt your life, and become a skeptic with faith! Science Mike describes his faith journey, and discusses brain science, space exploration, cryonics, and the oceanification of Miami.",
+		"URL": "https://www.christiantranshumanism.org/podcast/21",
+		"shortTitle": "Ep 21",
+		"language": "en",
+		"author": [
+			{
+				"family": "Redding",
+				"given": "Micah"
+			},
+			{
+				"family": "McHargue",
+				"given": "Mike"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					9,
+					13
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/KVZCXKL9",
+		"type": "song",
+		"title": "Ep 22: Derek Flood & Disarming Scripture",
+		"abstract": "The Bible is a rap battle! How to read the Bible like Jesus did, how to wrestle with the hard parts, and how the scientific method can make us better Christians.",
+		"URL": "https://www.christiantranshumanism.org/podcast/22",
+		"shortTitle": "Ep 22",
+		"language": "en",
+		"author": [
+			{
+				"family": "Redding",
+				"given": "Micah"
+			},
+			{
+				"family": "Flood",
+				"given": "Derek"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					10,
+					3
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/E79KQ9CV",
+		"type": "song",
+		"title": "Ep 23: Genesis vs The Babylonians",
+		"abstract": "Genesis vs the Babylonians, Eastern Orthodoxy vs American Fundamentalism, theosis vs playing god, and why early Christians kept talking about the 8th day of the week.",
+		"URL": "https://www.christiantranshumanism.org/podcast/23",
+		"shortTitle": "Ep 23",
+		"language": "en",
+		"author": [
+			{
+				"family": "Redding",
+				"given": "Micah"
+			},
+			{
+				"family": "Gaskin",
+				"given": "Amy"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					10,
+					24
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/2U8WAUIV",
+		"type": "song",
+		"title": "Ep 24: Greg Boyd & The Open-Ended God",
+		"abstract": "Greg Boyd on how God enters the cosmic dance through Science, Scripture, and Us. We explore faith &amp; doubt, quantum physics &amp; relativity, Christ-shaped politics, and the hard parts of the Bible!",
+		"URL": "https://www.christiantranshumanism.org/podcast/24",
+		"shortTitle": "Ep 24",
+		"language": "en",
+		"author": [
+			{
+				"family": "Redding",
+				"given": "Micah"
+			},
+			{
+				"family": "Boyd",
+				"given": "Greg"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					11,
+					21
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/NKSG6DGX",
+		"type": "song",
+		"title": "Ep 25: Katharine Hayhoe, Christians & Climate Change",
+		"abstract": "Katharine Hayhoe shares her unexpected journey to becoming an evangelical Christian climate scientist, discusses evidence for climate change, and explains why working to solve our climate problems doesn't mean \"Big Government!\". We explore optimistic ways to address global warming, and the incredible economic and health benefits of clean energy.",
+		"URL": "https://www.christiantranshumanism.org/podcast/25",
+		"shortTitle": "Ep 25",
+		"language": "en",
+		"author": [
+			{
+				"family": "Redding",
+				"given": "Micah"
+			},
+			{
+				"family": "Hayhoe",
+				"given": "Katherine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					12,
+					5
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/HHD58NAT",
+		"type": "song",
+		"title": "Ep 26: Philip Clayton & The Spectrum of Belief",
+		"abstract": "Raised by atheists, now a theologian and philosopher, Philip Clayton joins us to discuss the messy world between doubt and belief, feeling stuck in Christianity, and being okay with unanswered questions.",
+		"URL": "https://www.christiantranshumanism.org/podcast/26",
+		"shortTitle": "Ep 26",
+		"language": "en",
+		"author": [
+			{
+				"family": "Redding",
+				"given": "Micah"
+			},
+			{
+				"family": "Clayton",
+				"given": "Philip"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					12,
+					19
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/BSUZLBJC",
+		"type": "song",
+		"title": "Ep 27: Christopher Benek—Presbyterian, Pastor, Transhumanist",
+		"abstract": "Is it possible to be a Presbyterian and a Transhumanist? Rev. Christopher Benek, pastor of a large Presbyterian church, and graduate of Princeton Theological Seminary, says yes! Join us as we discuss how AI will participate in God's redemption, how humans are God's technology, and the surprising connection between Ray Kurzweil and NT Wright.",
+		"URL": "https://www.christiantranshumanism.org/podcast/27",
+		"shortTitle": "Ep 27",
+		"language": "en",
+		"author": [
+			{
+				"family": "Redding",
+				"given": "Micah"
+			},
+			{
+				"family": "Benek",
+				"given": "Christopher"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					2,
+					13
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/WQHMTVPL",
+		"type": "song",
+		"title": "Ep 28: Robert Walden Kurtz & the Zero Sum Game",
+		"abstract": "Can a Seventh-Day Adventist be a transhumanist? Robert Walden Kurtz, Adventist pastor and Professor of Philosophy, says yes! Join us as we discuss robots stealing your job, mind-mapping Jesus, the hidden threat of washing machines, zero-sum games, hacking the mind, and radical humility.",
+		"URL": "https://www.christiantranshumanism.org/podcast/28",
+		"shortTitle": "Ep 28",
+		"language": "en",
+		"author": [
+			{
+				"family": "Redding",
+				"given": "Micah"
+			},
+			{
+				"family": "Kurtz",
+				"given": "Robert Walden"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					2,
+					21
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/BYD2JT3P",
+		"type": "song",
+		"title": "Ep 29: Calvin Mercer—Theology & the Trickiest Questions in Transhumanism",
+		"abstract": "How does religion grapple with transhumanism and radical life extension? What does a theology of Extraterrestrials say about a theology of AI? Is Mind Uploading a rejection of the body, or an affirmation of St Paul's theology of resurrection?",
+		"URL": "https://www.christiantranshumanism.org/podcast/29",
+		"shortTitle": "Ep 29",
+		"language": "en",
+		"author": [
+			{
+				"family": "Redding",
+				"given": "Micah"
+			},
+			{
+				"family": "Mercer",
+				"given": "Calvin"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					3,
+					6
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/9MCH2U55",
+		"type": "song",
+		"title": "Ep 30: Robert Wright & the Purpose of Evolution",
+		"abstract": "Can evolution have a purpose? Are we living in an alien zoo? Does the cosmos evolve? Why did Christianity emerge when it did? What is the direction of human society—and are we at a crisis point in history? Best-selling author Robert Wright explores all these questions and more.",
+		"URL": "https://www.christiantranshumanism.org/podcast/30",
+		"shortTitle": "Ep 30",
+		"language": "en",
+		"author": [
+			{
+				"family": "Redding",
+				"given": "Micah"
+			},
+			{
+				"family": "Wright",
+				"given": "Robert"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					3,
+					13
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/QMQAMPVB",
+		"type": "song",
+		"title": "Ep 31: Peter Enns & How to Stop Defending the Bible (So You Can Actually Read It)",
+		"abstract": "How can certainty be a form of idolatry? Why should Christians embrace the humanity of the scriptures? How did an existentialist rant sneak into the Bible? And what does that teach us about faith? Peter Enns joins us to explore all these questions and more!",
+		"URL": "https://www.christiantranshumanism.org/podcast/31",
+		"shortTitle": "Ep 31",
+		"language": "en",
+		"author": [
+			{
+				"family": "Redding",
+				"given": "Micah"
+			},
+			{
+				"family": "Enns",
+				"given": "Peter"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					3,
+					21
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/V3IXPWE3",
+		"type": "song",
+		"title": "Ep 32: Shannon Vyff, Cryonics & Religious Education",
+		"abstract": "Is cryonics selfish? What do Harry Potter, transhumanism &amp; religious education have in common? What happens when kids go door-to-door raising money for life extension? Shannon Vyff—Transhumanist, Unitarian Universalist, and author of “21st Century Kids“—discusses all this and more!",
+		"URL": "https://www.christiantranshumanism.org/podcast/32",
+		"shortTitle": "Ep 32",
+		"language": "en",
+		"author": [
+			{
+				"family": "Redding",
+				"given": "Micah"
+			},
+			{
+				"family": "Vyff",
+				"given": "Shannon"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					4,
+					11
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/V7R7U9CE",
+		"type": "song",
+		"title": "Ep 33: Ron Cole-Turner & The Theology of Transformation",
+		"abstract": "What does Christianity bring to the conversation about humanity’s future? How do we move beyond the selfishness of short-term thinking, and embrace technology as part of the renewal and transformation of all life? Ron Cole-Turner, professor of theology &amp; ethics, explores all this and more!",
+		"URL": "https://www.christiantranshumanism.org/podcast/33",
+		"shortTitle": "Ep 33",
+		"language": "en",
+		"author": [
+			{
+				"family": "Redding",
+				"given": "Micah"
+			},
+			{
+				"family": "Cole-Turner",
+				"given": "Ron"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					4,
+					26
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/LGJK3XQ7",
+		"type": "song",
+		"title": "Ep 34: Meghan O'Gieblyn's Strange Journey into Transhumanism",
+		"abstract": "Meghan O'Gieblyn lost her faith—and found transhumanism. Then she realized that those two things weren't quite as far apart as she first believed.",
+		"URL": "https://www.christiantranshumanism.org/podcast/34",
+		"shortTitle": "Ep 34",
+		"language": "en",
+		"author": [
+			{
+				"family": "Redding",
+				"given": "Micah"
+			},
+			{
+				"family": "O'Gieblyn",
+				"given": "Meghan"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					6,
+					25
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/GU4IDMKK",
+		"type": "song",
+		"title": "Ep 35: David Deutsch & Humanity's Infinite Reach",
+		"abstract": "David Deutsch explains the physics of humanity’s profound place in the cosmos—and our potentially unlimited future.",
+		"URL": "https://www.christiantranshumanism.org/podcast/35",
+		"shortTitle": "Ep 35",
+		"language": "en",
+		"author": [
+			{
+				"family": "Redding",
+				"given": "Micah"
+			},
+			{
+				"family": "Deutsch",
+				"given": "David"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					7,
+					28
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/IN62FFWX",
+		"type": "song",
+		"title": "Ep 36: Aubrey de Grey & Radical Life Extension",
+		"abstract": "Aubrey de Grey pioneers anti-aging research, answers your questions about the future this is leading to, and explains why not working to defeat aging would be a sin.",
+		"URL": "https://www.christiantranshumanism.org/podcast/36",
+		"shortTitle": "Ep 36",
+		"language": "en",
+		"author": [
+			{
+				"family": "Redding",
+				"given": "Micah"
+			},
+			{
+				"family": "Grey",
+				"given": "Aubrey",
+				"non-dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					8,
+					28
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/NRS2JFRJ",
+		"type": "song",
+		"title": "Ep 37: Robin Hanson & The Elephant in the Brain",
+		"abstract": "Robin Hanson explores a future of robotic human uploads, helps us worry about The Great Filter, gives us strategies for living in a Simulation, and casually points out the Elephant in the Brain.",
+		"URL": "https://www.christiantranshumanism.org/podcast/37",
+		"shortTitle": "Ep 37",
+		"language": "en",
+		"author": [
+			{
+				"family": "Redding",
+				"given": "Micah"
+			},
+			{
+				"family": "Hanson",
+				"given": "Robin"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					5,
+					16
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/93P4QHKZ",
+		"type": "song",
+		"title": "Ep 38: NT Wright & the Future of God",
+		"abstract": "NT Wright explains why we don't want to go to Heaven, points us toward medical technology as a sign of the Kingdom, and clears up our biggest misconceptions about the apostle Paul.",
+		"URL": "https://www.christiantranshumanism.org/podcast/38",
+		"shortTitle": "Ep 38",
+		"language": "en",
+		"author": [
+			{
+				"family": "Redding",
+				"given": "Micah"
+			},
+			{
+				"family": "Wright",
+				"given": "N T"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					5,
+					24
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/VIQKDTIT",
+		"type": "song",
+		"title": "Ep 39: Ilia Delio, Christ & Evolution",
+		"abstract": "Ilia Delio explains how Jesus is like the Singularity, shows us why Christianity is the religion of evolution, and explores the thought of Teilhard de Chardin—the 1930s priest who foresaw the internet.",
+		"URL": "https://www.christiantranshumanism.org/podcast/39",
+		"shortTitle": "Ep 39",
+		"language": "en",
+		"author": [
+			{
+				"family": "Redding",
+				"given": "Micah"
+			},
+			{
+				"family": "Delio",
+				"given": "Ilia"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					5,
+					31
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/HRM2LVH9",
+		"type": "song",
+		"title": "Ep 40: Justin Lee—Gay, Geek & Christian",
+		"abstract": "Justin Lee navigates being gay &amp; Christian, talks about Paul, the Bible, and Christian ethics, and bridges the ultimate divide: geeks vs nerds!",
+		"URL": "https://www.christiantranshumanism.org/podcast/40",
+		"shortTitle": "Ep 40",
+		"language": "en",
+		"author": [
+			{
+				"family": "Redding",
+				"given": "Micah"
+			},
+			{
+				"family": "Lee",
+				"given": "Justin"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					6,
+					7
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/VNAURF5Y",
+		"type": "song",
+		"title": "Ep 41: David Pearce & Engineering Paradise",
+		"abstract": "David Pearce lays out a plan for building heaven on earth, shows us why vegans need more science fiction, and explains why computers will never become conscious.",
+		"URL": "https://www.christiantranshumanism.org/podcast/41",
+		"shortTitle": "Ep 41",
+		"language": "en",
+		"author": [
+			{
+				"family": "Redding",
+				"given": "Micah"
+			},
+			{
+				"family": "Pearce",
+				"given": "David"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					6,
+					21
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/BS23ELN6",
+		"type": "song",
+		"title": "Ep 42: Taryn Southern Lives in the Future",
+		"abstract": "Taryn Southern teaches AI to sing, releases the first song on the blockchain, and talks about how to use VR for good.",
+		"URL": "https://www.christiantranshumanism.org/podcast/42",
+		"shortTitle": "Ep 42",
+		"language": "en",
+		"author": [
+			{
+				"family": "Redding",
+				"given": "Micah"
+			},
+			{
+				"family": "Southern",
+				"given": "Taryn"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					7,
+					12
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/838D99BX",
+		"type": "song",
+		"title": "Ep 43: Derek Webb & the AI",
+		"abstract": "Derek Webb gets inside the head of the first A.I. waking up to consciousness.",
+		"URL": "https://www.christiantranshumanism.org/podcast/43",
+		"shortTitle": "Ep 43",
+		"language": "en",
+		"author": [
+			{
+				"family": "Redding",
+				"given": "Micah"
+			},
+			{
+				"family": "Webb",
+				"given": "Derek"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					7,
+					26
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
 				]
 			]
 		}
