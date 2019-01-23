@@ -699,7 +699,7 @@
 	},
 	{
 		"id": "http://zotero.org/users/local/HWAwDThz/items/6RZ2XBCK",
-		"type": "webpage",
+		"type": "post-weblog",
 		"title": "Artificial Intelligence: A Guide to the Key Issues",
 		"container-title": "Bishop Steven's Blog",
 		"abstract": "I’ve been exploring Artificial Intelligence for some time now.  In June I was appointed to sit on a new House of Lords Select Committee on AI as part of my work in the House of Lords.",
@@ -733,7 +733,7 @@
 	},
 	{
 		"id": "http://zotero.org/users/local/HWAwDThz/items/UKRPL44C",
-		"type": "webpage",
+		"type": "post-weblog",
 		"title": "Artificial Intelligence",
 		"container-title": "Bishop Steven's Blog",
 		"abstract": "My top eight issues in AI and the deep theological questions they raise...",
@@ -766,7 +766,7 @@
 	},
 	{
 		"id": "http://zotero.org/users/local/HWAwDThz/items/6PLE4LFJ",
-		"type": "webpage",
+		"type": "post-weblog",
 		"title": "Radio 4 Thought for the Day",
 		"container-title": "Bishop Steven's Blog",
 		"abstract": "Bishop Steven gave his Thought for the Day on Saturday 30th December 2017 during a programme edited by Artificial Intelligence (AI). “How are you feeling?” “What’s your energy like today?” Imagine being asked the same questions every day not by a person but by a machine. My eye was drawn earlier this year to the …",
@@ -799,7 +799,7 @@
 	},
 	{
 		"id": "http://zotero.org/users/local/HWAwDThz/items/U8MFKRP3",
-		"type": "webpage",
+		"type": "post-weblog",
 		"title": "The only way is Ethics",
 		"container-title": "Bishop Steven's Blog",
 		"abstract": "AI in the UK: ready, willing and able? is the new report from the Lords Select Committee on Artificial Intelligence. The Bishop of Oxford, the Rt Revd Dr Steven Croft, a member of the committee, explores a critical moment for AI: humankind has the power now to shape AI as it develops.",
@@ -832,7 +832,7 @@
 	},
 	{
 		"id": "http://zotero.org/users/local/HWAwDThz/items/KWRNALB2",
-		"type": "webpage",
+		"type": "post-weblog",
 		"title": "How to be human",
 		"container-title": "Bishop Steven's Blog",
 		"abstract": "Bishop Steven Croft explores the fundamental question of our age: what does it mean to be human and how do we live well in the age of the machine?",
@@ -865,7 +865,7 @@
 	},
 	{
 		"id": "http://zotero.org/users/local/HWAwDThz/items/W3NKCWTA",
-		"type": "webpage",
+		"type": "post-weblog",
 		"title": "Move fast and mend things",
 		"container-title": "Bishop Steven's Blog",
 		"abstract": "The Bishop of Oxford is one of an expert panel of advisers appointed to shape the work of the world’s first Centre for Data Ethics and Innovation.",
@@ -4435,6 +4435,1375 @@
 					"2019",
 					1,
 					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/JDSSFSYX",
+		"type": "post-weblog",
+		"title": "Christianity is Transhumanism",
+		"container-title": "h+ Media",
+		"abstract": "Christianity is not just compatible with the desire to reach beyond ourselves, it is the call to reach beyond ourselves, in recognition of and empowered by the grace bestowed upon us.",
+		"URL": "http://hplusmagazine.com/2014/05/22/christianity-is-transhumanism/",
+		"language": "en-US",
+		"author": [
+			{
+				"family": "Redding",
+				"given": "Micah"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					5,
+					22
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/HDPEKIZI",
+		"type": "post-weblog",
+		"title": "Religion+ for Humanity+",
+		"container-title": "h+ Media",
+		"abstract": "Should we leave open the possibility that religious traditions may have something to offer to the transhumanist movement?",
+		"URL": "http://hplusmagazine.com/2014/03/25/religion-for-humanity/",
+		"language": "en-US",
+		"author": [
+			{
+				"family": "Benek",
+				"given": "Christopher"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					3,
+					25
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/UJX8SEVA",
+		"type": "post-weblog",
+		"title": "Humanity+ Vs. Individualism+",
+		"container-title": "h+ Media",
+		"abstract": "Are you an H+ or an I+ transhumanist?",
+		"URL": "http://hplusmagazine.com/2014/07/14/humanity-vs-individualism/",
+		"language": "en-US",
+		"author": [
+			{
+				"family": "Benek",
+				"given": "Christopher"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					7,
+					14
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/KH8BJWKY",
+		"type": "post-weblog",
+		"title": "Relational Transhumanism -- Interdependence is The Rule",
+		"container-title": "h+ Media",
+		"abstract": "Zoltan Istvan recently published an article on the \"three laws of transhumanism\". But these three laws leave a little something to be desired.",
+		"URL": "http://hplusmagazine.com/2014/10/02/relational-transhumanism-interdependence-rule-exception/",
+		"language": "en-US",
+		"author": [
+			{
+				"family": "Redding",
+				"given": "Micah"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					10,
+					2
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/PQBWWLT7",
+		"type": "post-weblog",
+		"title": "Why Christians Should Embrace Transhumanism",
+		"abstract": "Much of the distress about transhumanism by Christians in the past surrounds its proponent's vocal Atheistic attempts to define the prefix \"trans\" in ways that advocate individual enhancement through technological means to become \"post\" human.",
+		"URL": "https://www.christianpost.com/news/why-christians-should-embrace-transhumanism.html",
+		"language": "en",
+		"author": [
+			{
+				"family": "Benek",
+				"given": "Christopher"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/FEX3GZHF",
+		"type": "post-weblog",
+		"title": "Why I Became a Christian Transhumanist",
+		"container-title": "Motherboard",
+		"abstract": "Christians are embracing cyborgs, cryogenics, and radical life extension.",
+		"URL": "https://motherboard.vice.com/en_us/article/9akxm3/why-i-became-a-christian-transhumanist",
+		"language": "en-US",
+		"author": [
+			{
+				"family": "Redding",
+				"given": "Micah"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					8,
+					14
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/NIZI3MNK",
+		"type": "post-weblog",
+		"title": "The Jesuit Priest Who Believed in God and the Singularity",
+		"container-title": "Motherboard",
+		"abstract": "Pierre Teilhard de Chardin’s ideas may have been ahead of his time.",
+		"URL": "https://motherboard.vice.com/en_us/article/nz7z7q/the-priest-who-believed-in-god-and-the-singularity-pierre-teilhard-de-chardin",
+		"language": "en-US",
+		"author": [
+			{
+				"family": "Redding",
+				"given": "Micah"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					3,
+					8
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/EZRXGCJF",
+		"type": "post-weblog",
+		"title": "Exploring incarnation: Can transhumanism enrich a Christian theology of humanity?",
+		"container-title": "Baptist News Global",
+		"abstract": "Some observers believe transhumanism touches on a fundamental religious question: the meaning of humanity.",
+		"URL": "https://baptistnews.com/article/exploring-incarnation-can-transhumanism-enrich-a-christian-theology-of-humanity/",
+		"shortTitle": "Exploring incarnation",
+		"language": "en-US",
+		"author": [
+			{
+				"family": "Waller",
+				"given": "Matthew"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					7,
+					13
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/MJM3KRDS",
+		"type": "post-weblog",
+		"title": "Can Transhumanism Lead Us Back to Orthodoxy?",
+		"container-title": "Christ and Pop Culture",
+		"abstract": "Some Christians are afraid transhumanism is just Gnosticism in a new form. But what if that’s backward?",
+		"URL": "https://christandpopculture.com/can-transhumanism-lead-us-back-to-orthodoxy/",
+		"language": "en-US",
+		"author": [
+			{
+				"family": "Redding",
+				"given": "Micah"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					7,
+					18
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/TN9BQYDB",
+		"type": "post-weblog",
+		"title": "The Profound, Confusing Religious Case for Transhumanism",
+		"container-title": "Inverse",
+		"abstract": "When is it okay to play God? Depends on who you ask.",
+		"URL": "https://www.inverse.com/article/20477-transhumanism-zoltan-istvan-religious-right-christian-science",
+		"language": "en",
+		"author": [
+			{
+				"family": "Tayag",
+				"given": "Yasmin"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					9,
+					25
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/LAGDG7Y8",
+		"type": "post-weblog",
+		"title": "Ghost in the Cloud",
+		"container-title": "n+1",
+		"abstract": "A new, more pernicious thought had come to dominate my mind: transhumanist ideas were not merely similar to theological concepts but could in fact be the events described in the Bible. It was only a short time before my obsession reached its culmination. I got out my old study Bible and began to scan the prophetic literature for signs of the cybernetic revolution. I began to wonder whether I could pray to beings outside the simulation. I had initially been drawn to transhumanism because it was grounded in science. In the end, I became consumed with the kind of referential mania and blind longing that animates all religious belief.",
+		"URL": "https://nplusonemag.com/issue-28/essays/ghost-in-the-cloud/",
+		"language": "en-US",
+		"author": [
+			{
+				"family": "O'Gieblyn",
+				"given": "Meghan"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					4,
+					11
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/E7RUZQL9",
+		"type": "article-newspaper",
+		"title": "God in the machine: my strange journey into transhumanism",
+		"container-title": "The Guardian",
+		"section": "Technology",
+		"source": "www.theguardian.com",
+		"abstract": "The long read: After losing her faith, a former evangelical Christian felt adrift in the world. She then found solace in a radical technological philosophy – but its promises of immortality and spiritual transcendence soon seemed unsettlingly familiar",
+		"URL": "https://www.theguardian.com/technology/2017/apr/18/god-in-the-machine-my-strange-journey-into-transhumanism",
+		"ISSN": "0261-3077",
+		"shortTitle": "God in the machine",
+		"language": "en-GB",
+		"author": [
+			{
+				"family": "O'Gieblyn",
+				"given": "Meghan"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					4,
+					18
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/4C64QZHH",
+		"type": "song",
+		"title": "BBC World Service - The Why Factor, Immortality",
+		"abstract": "Why do people chase immortality? We those who believe science is close to beating death",
+		"URL": "https://www.bbc.co.uk/programmes/w3cswrjy",
+		"language": "en-GB",
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/M5FT648X",
+		"type": "post-weblog",
+		"title": "Transhumanism Is Complicating the Sometimes Antagonistic Faith vs. Science Dynamic",
+		"container-title": "Slate Magazine",
+		"abstract": "For transhumanist faiths, technology becomes a way of cashing checks religion helped write.",
+		"URL": "https://slate.com/technology/2018/03/transhumanism-is-complicating-the-relationship-between-faith-and-science.html",
+		"language": "en",
+		"author": [
+			{
+				"family": "Antosca",
+				"given": "Albert R."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					3,
+					21
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/N96IEZ8U",
+		"type": "post-weblog",
+		"title": "Being Human in an Age of AI | Connecting with Culture",
+		"container-title": "LICC",
+		"abstract": "What does it mean to be human? This is a question which AI and robotics is raising with new intensity. Throughout history, we have tried to understand ourselves by reference to the leading technologies of the age. In the 18th century, for example, the French philosopher Diderot compared the human to a precision clock: ‘his …",
+		"URL": "https://www.licc.org.uk/resources/being-human/",
+		"language": "en",
+		"author": [
+			{
+				"family": "Wyatt",
+				"given": "John"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					6,
+					28
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/ZFF9ZG3A",
+		"type": "post-weblog",
+		"title": "AI: The Coming Revolution | Connecting with Culture",
+		"container-title": "LICC",
+		"abstract": "The worldwide artificial intelligence (AI) revolution is on its way. Once the preserve of science fiction, its impact is likely to be so radical and pervasive it amounts to a new industrial revolution. Whereas earlier industrial revolutions have been based on mechanisation in textiles, steam power, electricity, steel, and consumer products, the key shift in …",
+		"URL": "https://www.licc.org.uk/resources/ai-revolution/",
+		"shortTitle": "AI",
+		"language": "en",
+		"author": [
+			{
+				"family": "Heslam",
+				"given": "Peter"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					5,
+					19
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/ADBY5A5L",
+		"type": "post-weblog",
+		"title": "The Robots are Coming | Connecting with Culture",
+		"container-title": "LICC",
+		"abstract": "My Twitter feed has been all of a, well, twitter recently, sharing a video of a robot that was capable of… wait for it… opening a door. Excuse my naivety, but I hadn’t realised that they couldn’t already, or that this skill would be the tipping point from which the apocalypse actually started and we …",
+		"URL": "https://www.licc.org.uk/resources/robots-coming/",
+		"language": "en",
+		"author": [
+			{
+				"family": "Pollock",
+				"given": "Jennie"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					2,
+					28
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/LARA9QBZ",
+		"type": "post-weblog",
+		"title": "AI and MRS GREN: What does it mean to be human?",
+		"container-title": "Theos Think Tank",
+		"abstract": "Nick Spencer argues why the embodiment of human thought constitutes the thin red line between humans and Artificial Intelligence.",
+		"URL": "https://www.theosthinktank.co.uk/comment/2018/10/11/ai-and-mrs-gren-what-does-it-mean-to-be-human",
+		"shortTitle": "AI and MRS GREN",
+		"author": [
+			{
+				"family": "Spencer",
+				"given": "Nick"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					10,
+					11
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/C6GGHCXG",
+		"type": "song",
+		"title": "Robots, Humans and the Ethics of Artificial Intelligence : Live Recording",
+		"abstract": "Like what you read? Share it on social media. Join our monthly e–newsletter to keep up to date with our latest research and events. And check out our Friends Programme to find out how you can partner with us.",
+		"URL": "https://www.theosthinktank.co.uk/events/2017/06/02/robots-humans-and-the-ethics-of-artificial-intelligence-live-recording",
+		"shortTitle": "Robots, Humans and the Ethics of Artificial Intelligence",
+		"author": [
+			{
+				"family": "Wyatt",
+				"given": "John"
+			},
+			{
+				"family": "Singler",
+				"given": "Beth"
+			},
+			{
+				"family": "Spencer",
+				"given": "Nick"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					5,
+					17
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/THM7QPHL",
+		"type": "post-weblog",
+		"title": "As artificial intelligence grows, so do perceived threats to human uniqueness",
+		"container-title": "Religion News Service",
+		"abstract": "(RNS) — The Elon Musk-Mark Zuckerberg tussle over artificial intelligence reflects broader questions about the centrality of God-given humanity.",
+		"URL": "https://religionnews.com/2017/08/01/as-artificial-intelligence-grows-so-do-perceived-threats-to-human-uniqueness/",
+		"language": "en-US",
+		"author": [
+			{
+				"family": "Chan",
+				"given": "Rosalie"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					8,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/HQN3CNN4",
+		"type": "post-weblog",
+		"title": "Are you smarter than a computer?",
+		"container-title": "Theos Think Tank",
+		"abstract": "Nick Spencer reflects on recent advances in Artificial Intelligence and why they don’t constitute ‘human beings’. 25/06/2018",
+		"URL": "https://www.theosthinktank.co.uk/comment/2018/06/25/are-you-smarter-than-a-computer",
+		"author": [
+			{
+				"family": "Spencer",
+				"given": "Nick"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					6,
+					25
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/RI4UC8RE",
+		"type": "post-weblog",
+		"title": "When does a robot become a person?",
+		"container-title": "Theos Think Tank",
+		"abstract": "Interested by this? Share it on social media. Join our monthly e–newsletter to keep up to date with our latest research and events. And check out our Friends Programme to find out how you can help our work.",
+		"URL": "https://www.theosthinktank.co.uk/comment/2017/05/19/when-does-a-robot-become-a-person",
+		"author": [
+			{
+				"family": "Spencer",
+				"given": "Nick"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					5,
+					19
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/2SDYC4XR",
+		"type": "post-weblog",
+		"title": "Can Robots Be People? – It’s more complicated than that",
+		"container-title": "Theos Think Tank",
+		"abstract": "Interested by this? Share it on social media. Join our monthly e–newsletter to keep up to date with our latest research and events. And check out our Friends Programme to find out how you can help our work.",
+		"URL": "https://www.theosthinktank.co.uk/comment/2017/05/23/can-robots-become-human-its-more-complicated-than-that",
+		"shortTitle": "Can Robots Be People?",
+		"author": [
+			{
+				"family": "Pollock",
+				"given": "Jennie"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					5,
+					23
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/X7G4B7QJ",
+		"type": "motion_picture",
+		"title": "Me, Myself and A.I.",
+		"abstract": "What Makes us Human?",
+		"URL": "http://www.veritas.org/me-myself-and-i/",
+		"language": "en-US",
+		"author": [
+			{
+				"family": "Picard",
+				"given": "Rosalind"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011",
+					11,
+					3
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/QYARSNV5",
+		"type": "motion_picture",
+		"title": "Are We Merely Machines? An MIT Professor's Look at Humanity, Technology, and God",
+		"abstract": "Are we merely machines? MIT Professor Rosalind Picard looks at technology, human identity, and God at The Veritas Forum at Duke University, 2014.",
+		"URL": "http://www.veritas.org/are-we-merely-machines-an-mit-professors-look-at-humanity-technology-and-god/",
+		"shortTitle": "Are We Merely Machines?",
+		"language": "en-US",
+		"author": [
+			{
+				"family": "Picard",
+				"given": "Rosalind"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					3,
+					16
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/HWQD3AGV",
+		"type": "motion_picture",
+		"title": "What Makes Us Human? A Computer Scientist and a Philosopher Discuss discuss",
+		"abstract": "MIT computer scientist Rosalind Picard and Yale experimental philosopher Joshua Knobe explore what it means to be human at The Veritas Forum at Yale University, 2013. Conversation moderated by Nii Addy, Assistant Professor of Psychiatry and of Cellular and Molecular Physiology at the Yale School of Medicine.",
+		"URL": "http://www.veritas.org/what-makes-us-human-an-mit-computer-scientist-and-a-yale-experimental-philosopher-discuss-discuss-religion-robotics-and-consciousness/",
+		"shortTitle": "What Makes Us Human?",
+		"language": "en-US",
+		"author": [
+			{
+				"family": "Picard",
+				"given": "Rosalind"
+			},
+			{
+				"family": "Knobe",
+				"given": "Joshua"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					11,
+					27
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/D9N88RZM",
+		"type": "motion_picture",
+		"title": "Will Technology Save the World?",
+		"abstract": "Atheist and Christian MIT Professors Discuss",
+		"URL": "http://www.veritas.org/will-technology-save-world/",
+		"language": "en-US",
+		"author": [
+			{
+				"family": "Picard",
+				"given": "Rosalind"
+			},
+			{
+				"family": "Barbastathis",
+				"given": "George"
+			},
+			{
+				"family": "Gomez-Marquez",
+				"given": "Jose"
+			},
+			{
+				"family": "Silbey",
+				"given": "Susan"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					3,
+					9
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/2AT2UBYS",
+		"type": "motion_picture",
+		"title": "Living Machines: Can Robots Become Human?",
+		"abstract": "Can robots become human? Will we ever design life? Rodney Brooks, who engineers robots and self-identifies as a robot (and a human), and Rosalind Picard, who develops emotional interfaces in computers, dialogue about life, God, and robots. Each speaker begins with an opening presentation, followed by a moderator-guided discussion.",
+		"URL": "http://www.veritas.org/living-machines-can-robots-become-human/",
+		"shortTitle": "Living Machines",
+		"language": "en-US",
+		"author": [
+			{
+				"family": "Picard",
+				"given": "Rosalind"
+			},
+			{
+				"family": "Brooks",
+				"given": "Rodney"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					3,
+					3
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/NNVQV9U3",
+		"type": "motion_picture",
+		"title": "The Social Net(works?)",
+		"abstract": "Friendship, Community, and Social Media",
+		"URL": "http://www.veritas.org/social-networks/",
+		"shortTitle": "The Social Net(works?",
+		"language": "en-US",
+		"author": [
+			{
+				"family": "Ward",
+				"given": "Graham"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011",
+					6,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/MK2UKLIN",
+		"type": "motion_picture",
+		"title": "Liberating Technology",
+		"abstract": "What is the hope of the world?",
+		"URL": "http://www.veritas.org/liberating-technology/",
+		"language": "en-US",
+		"author": [
+			{
+				"family": "Ramachandra",
+				"given": "Vinoth"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011",
+					2,
+					22
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/V5KDJL22",
+		"type": "motion_picture",
+		"title": "Robots, Autism, and God",
+		"abstract": "A scientist of faith looks at artificial intelligence and humanity",
+		"URL": "http://www.veritas.org/robots-autism-and-god/",
+		"language": "en-US",
+		"author": [
+			{
+				"family": "Picard",
+				"given": "Rosalind"
+			},
+			{
+				"family": "Ecklund",
+				"given": "Elaine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011",
+					1,
+					25
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/CAVDDTEP",
+		"type": "motion_picture",
+		"title": "I...Robot?",
+		"abstract": "Rosalind Picard explores what makes us human",
+		"URL": "http://www.veritas.org/irobot/",
+		"language": "en-US",
+		"author": [
+			{
+				"family": "Picard",
+				"given": "Rosalind"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					2,
+					11
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/Q33D9EXT",
+		"type": "motion_picture",
+		"title": "Persons, Bodies, and Technologies",
+		"abstract": "Human Dignity and Bio-medical Ethics",
+		"URL": "http://www.veritas.org/persons-bodies-and-technologies/",
+		"language": "en-US",
+		"author": [
+			{
+				"family": "Wyatt",
+				"given": "John"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009",
+					11,
+					13
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/D4WTS5QF",
+		"type": "motion_picture",
+		"title": "Ethics for the 21st Century",
+		"abstract": "Emerging technologies and the challenge to being human",
+		"URL": "http://www.veritas.org/ethics-21st-century/",
+		"language": "en-US",
+		"author": [
+			{
+				"family": "Cameron",
+				"given": "Nigel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009",
+					11,
+					10
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/3MIDI35S",
+		"type": "motion_picture",
+		"title": "A Time to Kill, a Time to Heal: Technology through a biblical lens",
+		"abstract": "Western societies expect technological solutions for increasingly difficult and expansive problems. Some of the problems arise from natural causes, but others are consequences of technology itself; and solutions can create ethical dilemmas as complex as the problems we are attempting to resolve. Some malevolent applications may be averted; but unintended consequences may not be recognized …",
+		"URL": "http://www.veritas.org/time-kill-time-heal-technology-through-biblical-lens/",
+		"shortTitle": "A Time to Kill, a Time to Heal",
+		"language": "en-US",
+		"author": [
+			{
+				"family": "Swearengen",
+				"given": "Jack"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009",
+					2,
+					13
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/NZGQYENL",
+		"type": "motion_picture",
+		"title": "Science: Are We Machines?",
+		"abstract": "Can we manufacture consciousness? Are we nothing more than gene replication machines? Prof. Andrew Briggs chairs a discussion with Prof. Lionel Tarassenko and Prof. Alister McGrath on the nature of our very being.",
+		"URL": "http://www.veritas.org/science-are-we-machines/",
+		"shortTitle": "Science",
+		"language": "en-US",
+		"author": [
+			{
+				"family": "Mcgrath",
+				"given": "Alister"
+			},
+			{
+				"family": "Tarassenko",
+				"given": "Lionel"
+			},
+			{
+				"family": "Briggs",
+				"given": "Andrew"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008",
+					1,
+					26
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/SLNY8YUX",
+		"type": "motion_picture",
+		"title": "Imagining the Future, Innovation and God",
+		"abstract": "The Veritas Forum invites students and faculty to ask life's hardest questions. With a commitment to courageous discourse we put the historic Christian faith in dialogue with other beliefs and invite participants from all backgrounds to pursue Truth together.",
+		"URL": "http://www.veritas.org/imagining-future-innovation-god/",
+		"language": "en-US",
+		"author": [
+			{
+				"family": "Wright",
+				"given": "N T"
+			},
+			{
+				"family": "Thiel",
+				"given": "Peter"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					4,
+					6
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/5Z5RTVIT",
+		"type": "motion_picture",
+		"title": "Jesus Christ & Nanotechnology",
+		"abstract": "James Tour speaks on how Jesus Christ has influenced his career and work in Nanotechnology at Texas A&M University.",
+		"URL": "http://www.veritas.org/jesus-christ-nanotechnology/",
+		"language": "en-US",
+		"author": [
+			{
+				"family": "Tour",
+				"given": "James"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					5,
+					8
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/GWLMKSBF",
+		"type": "webpage",
+		"title": "Nanotech and Jesus Christ",
+		"container-title": "The Veritas Forum",
+		"abstract": "The Impact of Faith in the Life of a Scientist",
+		"URL": "http://www.veritas.org/nanotech-and-jesus-christ/",
+		"language": "en-US",
+		"author": [
+			{
+				"family": "Tour",
+				"given": "James"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					11,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/2G8PADLN",
+		"type": "motion_picture",
+		"title": "Saving Technology: Is it our only hope?",
+		"abstract": "The Veritas Forum invites students and faculty to ask life's hardest questions. With a commitment to courageous discourse we put the historic Christian faith in dialogue with other beliefs and invite participants from all backgrounds to pursue Truth together.",
+		"URL": "http://www.veritas.org/saving-technology-hope/",
+		"shortTitle": "Saving Technology",
+		"language": "en-US",
+		"author": [
+			{
+				"family": "Picard",
+				"given": "Rosalind"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					3,
+					18
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/HWAwDThz/items/NPC5PMBB",
+		"type": "webpage",
+		"title": "Why believe something you can't prove?",
+		"container-title": "The Veritas Forum",
+		"abstract": "NYT columnist, Ross Douthat, and MIT professor, Rosalind Picard, discuss the perception of faith in computer science and why it is reasonable to believe things that we can’t prove.",
+		"URL": "http://www.veritas.org/why-believe-something-you-cant-prove/",
+		"language": "en-US",
+		"author": [
+			{
+				"family": "Picard",
+				"given": "Rosalind"
+			},
+			{
+				"family": "Douthat",
+				"given": "Ross"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					2,
+					15
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					23
 				]
 			]
 		}
