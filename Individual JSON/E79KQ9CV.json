@@ -1,1 +1,41 @@
-{"id": "http://zotero.org/users/local/HWAwDThz/items/E79KQ9CV", "type": "song", "title": "Ep 23: Genesis vs The Babylonians", "abstract": "Genesis vs the Babylonians, Eastern Orthodoxy vs American Fundamentalism, theosis vs playing god, and why early Christians kept talking about the 8th day of the week.", "URL": "https://www.christiantranshumanism.org/podcast/23", "shortTitle": "Ep 23", "language": "en", "author": [{"family": "Redding", "given": "Micah"}, {"family": "Gaskin", "given": "Amy"}], "issued": {"date-parts": [["2016", 10, 24]]}, "accessed": {"date-parts": [["2019", 1, 22]]}, "keyword": ["Technology", "Transhumanism"]}
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/E79KQ9CV",
+    "type": "song",
+    "title": "Ep 23: Genesis vs The Babylonians",
+    "abstract": "Genesis vs the Babylonians, Eastern Orthodoxy vs American Fundamentalism, theosis vs playing god, and why early Christians kept talking about the 8th day of the week.",
+    "URL": "https://www.christiantranshumanism.org/podcast/23",
+    "shortTitle": "Ep 23",
+    "language": "en",
+    "author": [
+        {
+            "family": "Redding",
+            "given": "Micah"
+        },
+        {
+            "family": "Gaskin",
+            "given": "Amy"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2016",
+                10,
+                24
+            ]
+        ]
+    },
+    "accessed": {
+        "date-parts": [
+            [
+                "2019",
+                1,
+                22
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology",
+        "Transhumanism"
+    ]
+}

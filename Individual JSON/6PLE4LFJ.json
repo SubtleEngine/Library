@@ -1,1 +1,36 @@
-{"id": "http://zotero.org/users/local/HWAwDThz/items/6PLE4LFJ", "type": "post-weblog", "title": "Radio 4 Thought for the Day", "container-title": "Bishop Steven's Blog", "abstract": "Bishop Steven gave his Thought for the Day on Saturday 30th December 2017 during a programme edited by Artificial Intelligence (AI). \u201cHow are you feeling?\u201d \u201cWhat\u2019s your energy like today?\u201d Imagine being asked the same questions every day not by a person but by a machine. My eye was drawn earlier this year to the \u2026", "URL": "https://blogs.oxford.anglican.org/radio-4-thought-day/", "language": "en-GB", "author": [{"family": "Croft", "given": "Steven"}], "issued": {"date-parts": [["2017", 12, 30]]}, "accessed": {"date-parts": [["2019", 1, 4]]}, "keyword": ["Technology"]}
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/6PLE4LFJ",
+    "type": "post-weblog",
+    "title": "Radio 4 Thought for the Day",
+    "container-title": "Bishop Steven's Blog",
+    "abstract": "Bishop Steven gave his Thought for the Day on Saturday 30th December 2017 during a programme edited by Artificial Intelligence (AI). \u201cHow are you feeling?\u201d \u201cWhat\u2019s your energy like today?\u201d Imagine being asked the same questions every day not by a person but by a machine. My eye was drawn earlier this year to the \u2026",
+    "URL": "https://blogs.oxford.anglican.org/radio-4-thought-day/",
+    "language": "en-GB",
+    "author": [
+        {
+            "family": "Croft",
+            "given": "Steven"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2017",
+                12,
+                30
+            ]
+        ]
+    },
+    "accessed": {
+        "date-parts": [
+            [
+                "2019",
+                1,
+                4
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology"
+    ]
+}

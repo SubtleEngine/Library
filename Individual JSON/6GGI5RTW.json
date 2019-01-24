@@ -1,1 +1,29 @@
-{"id": "http://zotero.org/users/local/HWAwDThz/items/6GGI5RTW", "type": "book", "title": "Technology and Religion: Remaining Human in a Co-created World", "publisher": "Templeton Press", "number-of-pages": "177", "source": "Google Books", "abstract": "Technology is changing all the time, but does it also have the ability to change us and the way we approach religion and spirituality? In Technology and Religion: Remaining Human in a Co-created World, Noreen Herzfeld examines this and other provocative questions as she provides an accessible and fascinating overview of the relationship between religion and the ever-broadening world of technology. In order to consider fully a topic as wide as technology, Herzfeld approaches the field from three different angles: technologies of the human body\u2014such as genetic engineering, stem cells, cloning, pharmaceutical technologies, mechanical enhancement and cyborgs; technologies of the human mind\u2014like human and artificial intelligence, virtual reality and cyberspace; and technologies of the external environment\u2014such as nanotechnology, genetically modified crops and new agricultural technologies, and energy technology. She takes a similarly broad approach to the field of religion, focusing on how these issues interface with the three Abrahamic traditions of Christianity, Islam, and Judaism. Throughout, readers will find nuanced examinations of the moral and ethical issues surrounding new technologies from the perspectives of these faith traditions. The result is a multifaceted look at the ongoing dialogue between these two subjects that are not commonly associated with one another. This volume is the third title published in the new Templeton Science and Religion Series.", "ISBN": "978-1-59947-313-0", "shortTitle": "Technology and Religion", "language": "en", "author": [{"family": "Herzfeld", "given": "Noreen"}], "issued": {"date-parts": [["2009", 6]]}, "keyword": ["Technology"]}
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/6GGI5RTW",
+    "type": "book",
+    "title": "Technology and Religion: Remaining Human in a Co-created World",
+    "publisher": "Templeton Press",
+    "number-of-pages": "177",
+    "source": "Google Books",
+    "abstract": "Technology is changing all the time, but does it also have the ability to change us and the way we approach religion and spirituality? In Technology and Religion: Remaining Human in a Co-created World, Noreen Herzfeld examines this and other provocative questions as she provides an accessible and fascinating overview of the relationship between religion and the ever-broadening world of technology. In order to consider fully a topic as wide as technology, Herzfeld approaches the field from three different angles: technologies of the human body\u2014such as genetic engineering, stem cells, cloning, pharmaceutical technologies, mechanical enhancement and cyborgs; technologies of the human mind\u2014like human and artificial intelligence, virtual reality and cyberspace; and technologies of the external environment\u2014such as nanotechnology, genetically modified crops and new agricultural technologies, and energy technology. She takes a similarly broad approach to the field of religion, focusing on how these issues interface with the three Abrahamic traditions of Christianity, Islam, and Judaism. Throughout, readers will find nuanced examinations of the moral and ethical issues surrounding new technologies from the perspectives of these faith traditions. The result is a multifaceted look at the ongoing dialogue between these two subjects that are not commonly associated with one another. This volume is the third title published in the new Templeton Science and Religion Series.",
+    "ISBN": "978-1-59947-313-0",
+    "shortTitle": "Technology and Religion",
+    "language": "en",
+    "author": [
+        {
+            "family": "Herzfeld",
+            "given": "Noreen"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2009",
+                6
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology"
+    ]
+}

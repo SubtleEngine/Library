@@ -1,1 +1,41 @@
-{"id": "http://zotero.org/users/local/HWAwDThz/items/ITIUH6II", "type": "song", "title": "Ep 17: Kevin Kelly and The Inevitable", "abstract": "What's Inevitable, and what we get to choose? Micah Redding and Kevin Kelly discuss rapidly approaching technological change, the advent of Artificial Intelligence, and how technology challenges and illuminates our understanding of God, faith, and ourselves.", "URL": "https://www.christiantranshumanism.org/podcast/17", "shortTitle": "Ep 17", "language": "en", "author": [{"family": "Redding", "given": "Micah"}, {"family": "Kelly", "given": "Kevin"}], "issued": {"date-parts": [["2016", 6, 7]]}, "accessed": {"date-parts": [["2019", 1, 22]]}, "keyword": ["Technology", "Transhumanism"]}
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/ITIUH6II",
+    "type": "song",
+    "title": "Ep 17: Kevin Kelly and The Inevitable",
+    "abstract": "What's Inevitable, and what we get to choose? Micah Redding and Kevin Kelly discuss rapidly approaching technological change, the advent of Artificial Intelligence, and how technology challenges and illuminates our understanding of God, faith, and ourselves.",
+    "URL": "https://www.christiantranshumanism.org/podcast/17",
+    "shortTitle": "Ep 17",
+    "language": "en",
+    "author": [
+        {
+            "family": "Redding",
+            "given": "Micah"
+        },
+        {
+            "family": "Kelly",
+            "given": "Kevin"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2016",
+                6,
+                7
+            ]
+        ]
+    },
+    "accessed": {
+        "date-parts": [
+            [
+                "2019",
+                1,
+                22
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology",
+        "Transhumanism"
+    ]
+}

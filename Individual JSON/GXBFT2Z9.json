@@ -1,1 +1,29 @@
-{"id": "http://zotero.org/users/local/HWAwDThz/items/GXBFT2Z9", "type": "book", "title": "Letters from Lake Como: Explorations in Technology and the Human Race", "publisher": "W.B. Eerdmans", "number-of-pages": "144", "source": "Google Books", "abstract": "\"This book collects a fascinating series of letters written by theologian-philosopher Romano Guardini in the mid-1920s in which he works out for the first time his sense of the challenges of humanity in a culture increasingly dominated by the machine. With prophetic clarity and unsettling farsightedness, Guardini's letters poignantly capture the personal implications and social challenges of living in the technological age - concerns that have now come to fruition seventy years after they were first raised.\"--BOOK JACKET.Title Summary field provided by Blackwell North America, Inc. All Rights Reserved", "ISBN": "978-0-8028-0108-1", "note": "Google-Books-ID: vvgYAAAAYAAJ", "shortTitle": "Letters from Lake Como", "language": "en", "author": [{"family": "Guardini", "given": "Romano"}], "issued": {"date-parts": [["1994"]]}, "keyword": ["Technology"]}
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/GXBFT2Z9",
+    "type": "book",
+    "title": "Letters from Lake Como: Explorations in Technology and the Human Race",
+    "publisher": "W.B. Eerdmans",
+    "number-of-pages": "144",
+    "source": "Google Books",
+    "abstract": "\"This book collects a fascinating series of letters written by theologian-philosopher Romano Guardini in the mid-1920s in which he works out for the first time his sense of the challenges of humanity in a culture increasingly dominated by the machine. With prophetic clarity and unsettling farsightedness, Guardini's letters poignantly capture the personal implications and social challenges of living in the technological age - concerns that have now come to fruition seventy years after they were first raised.\"--BOOK JACKET.Title Summary field provided by Blackwell North America, Inc. All Rights Reserved",
+    "ISBN": "978-0-8028-0108-1",
+    "note": "Google-Books-ID: vvgYAAAAYAAJ",
+    "shortTitle": "Letters from Lake Como",
+    "language": "en",
+    "author": [
+        {
+            "family": "Guardini",
+            "given": "Romano"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "1994"
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology"
+    ]
+}

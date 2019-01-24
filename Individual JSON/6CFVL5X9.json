@@ -1,1 +1,41 @@
-{"id": "http://zotero.org/users/local/HWAwDThz/items/6CFVL5X9", "type": "song", "title": "Ep 11: Singularity & Superheroes", "abstract": "Micah and Amy discuss the disruptiveness of the Singularity, the creepiness of robots, the awesomeness of superheroes, and the importance of origin stories.", "URL": "https://www.christiantranshumanism.org/podcast/11", "shortTitle": "Ep 11", "language": "en", "author": [{"family": "Redding", "given": "Micah"}, {"family": "Gaskin", "given": "Amy"}], "issued": {"date-parts": [["2015", 12, 14]]}, "accessed": {"date-parts": [["2019", 1, 22]]}, "keyword": ["Technology", "Transhumanism"]}
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/6CFVL5X9",
+    "type": "song",
+    "title": "Ep 11: Singularity & Superheroes",
+    "abstract": "Micah and Amy discuss the disruptiveness of the Singularity, the creepiness of robots, the awesomeness of superheroes, and the importance of origin stories.",
+    "URL": "https://www.christiantranshumanism.org/podcast/11",
+    "shortTitle": "Ep 11",
+    "language": "en",
+    "author": [
+        {
+            "family": "Redding",
+            "given": "Micah"
+        },
+        {
+            "family": "Gaskin",
+            "given": "Amy"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2015",
+                12,
+                14
+            ]
+        ]
+    },
+    "accessed": {
+        "date-parts": [
+            [
+                "2019",
+                1,
+                22
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology",
+        "Transhumanism"
+    ]
+}

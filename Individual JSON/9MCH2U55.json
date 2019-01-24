@@ -1,1 +1,40 @@
-{"id": "http://zotero.org/users/local/HWAwDThz/items/9MCH2U55", "type": "song", "title": "Ep 30: Robert Wright & the Purpose of Evolution", "abstract": "Can evolution have a purpose? Are we living in an alien zoo? Does the cosmos evolve? Why did Christianity emerge when it did? What is the direction of human society\u2014and are we at a crisis point in history? Best-selling author Robert Wright explores all these questions and more.", "URL": "https://www.christiantranshumanism.org/podcast/30", "shortTitle": "Ep 30", "language": "en", "author": [{"family": "Redding", "given": "Micah"}, {"family": "Wright", "given": "Robert"}], "issued": {"date-parts": [["2017", 3, 13]]}, "accessed": {"date-parts": [["2019", 1, 22]]}, "keyword": ["Technology"]}
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/9MCH2U55",
+    "type": "song",
+    "title": "Ep 30: Robert Wright & the Purpose of Evolution",
+    "abstract": "Can evolution have a purpose? Are we living in an alien zoo? Does the cosmos evolve? Why did Christianity emerge when it did? What is the direction of human society\u2014and are we at a crisis point in history? Best-selling author Robert Wright explores all these questions and more.",
+    "URL": "https://www.christiantranshumanism.org/podcast/30",
+    "shortTitle": "Ep 30",
+    "language": "en",
+    "author": [
+        {
+            "family": "Redding",
+            "given": "Micah"
+        },
+        {
+            "family": "Wright",
+            "given": "Robert"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2017",
+                3,
+                13
+            ]
+        ]
+    },
+    "accessed": {
+        "date-parts": [
+            [
+                "2019",
+                1,
+                22
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology"
+    ]
+}

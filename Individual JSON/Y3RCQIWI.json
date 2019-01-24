@@ -1,1 +1,42 @@
-{"id": "http://zotero.org/users/local/HWAwDThz/items/Y3RCQIWI", "type": "article-journal", "title": "Raising the Virtuous Bar: The Underlying Issues of Genetic Moral Enhancement", "container-title": "Theology and Science", "page": "279-287", "volume": "16", "issue": "3", "source": "Taylor and Francis+NEJM", "abstract": "From the perspective of virtue ethics, is it possible and permissible to enhance moral behavior through gene modification? In preparation to answer this question, we must ask five questions: (1) What may we assume regarding genetic inheritance and human nature? (2) Can specific genes predispose behavior related to the moral virtues? (3) What kind of genetic enhancement would be useful for moral enhancement? (4) Should there be a distinction between somatic and germline gene modification? (5) Is genetic modification best approach to moral enhancement? This article concedes that genetic engineering has the capacity to enhance the human disposition to moral behavior, but gene editing cannot create virtue because virtues are stable, habituated dispositions, acquired over time. That being said, gene editing for purposes of enhancing moral behavior is permissible.", "URL": "https://doi.org/10.1080/14746700.2018.1488474", "DOI": "10.1080/14746700.2018.1488474", "ISSN": "1474-6700", "shortTitle": "Raising the Virtuous Bar", "author": [{"family": "Molhoek", "given": "Braden"}], "issued": {"date-parts": [["2018", 7, 3]]}, "accessed": {"date-parts": [["2019", 1, 15]]}, "keyword": ["Technology"]}
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/Y3RCQIWI",
+    "type": "article-journal",
+    "title": "Raising the Virtuous Bar: The Underlying Issues of Genetic Moral Enhancement",
+    "container-title": "Theology and Science",
+    "page": "279-287",
+    "volume": "16",
+    "issue": "3",
+    "source": "Taylor and Francis+NEJM",
+    "abstract": "From the perspective of virtue ethics, is it possible and permissible to enhance moral behavior through gene modification? In preparation to answer this question, we must ask five questions: (1) What may we assume regarding genetic inheritance and human nature? (2) Can specific genes predispose behavior related to the moral virtues? (3) What kind of genetic enhancement would be useful for moral enhancement? (4) Should there be a distinction between somatic and germline gene modification? (5) Is genetic modification best approach to moral enhancement? This article concedes that genetic engineering has the capacity to enhance the human disposition to moral behavior, but gene editing cannot create virtue because virtues are stable, habituated dispositions, acquired over time. That being said, gene editing for purposes of enhancing moral behavior is permissible.",
+    "URL": "https://doi.org/10.1080/14746700.2018.1488474",
+    "DOI": "10.1080/14746700.2018.1488474",
+    "ISSN": "1474-6700",
+    "shortTitle": "Raising the Virtuous Bar",
+    "author": [
+        {
+            "family": "Molhoek",
+            "given": "Braden"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2018",
+                7,
+                3
+            ]
+        ]
+    },
+    "accessed": {
+        "date-parts": [
+            [
+                "2019",
+                1,
+                15
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology"
+    ]
+}

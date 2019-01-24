@@ -1,1 +1,30 @@
-{"id": "http://zotero.org/users/local/HWAwDThz/items/BRH5ZKYS", "type": "book", "title": "Thinking about God in an Age of Technology", "publisher": "OUP Oxford", "number-of-pages": "287", "source": "Google Books", "abstract": "Taking up the critique of theology found in the work of Heidegger, George Pattison argues for a model of thinking about God that would not be liable to the charge of `enframing' that Heidegger sees as characteristic of technological thinking. He constructs his case in relation to particular issues in bioethics, the place of theology in the university, the arts, and the contemporary experience of living in the city.", "ISBN": "978-0-19-927977-7", "note": "Google-Books-ID: 9WgTDAAAQBAJ", "language": "en", "author": [{"family": "Pattison", "given": "George"}], "issued": {"date-parts": [["2005", 9, 22]]}, "keyword": ["Technology"]}
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/BRH5ZKYS",
+    "type": "book",
+    "title": "Thinking about God in an Age of Technology",
+    "publisher": "OUP Oxford",
+    "number-of-pages": "287",
+    "source": "Google Books",
+    "abstract": "Taking up the critique of theology found in the work of Heidegger, George Pattison argues for a model of thinking about God that would not be liable to the charge of `enframing' that Heidegger sees as characteristic of technological thinking. He constructs his case in relation to particular issues in bioethics, the place of theology in the university, the arts, and the contemporary experience of living in the city.",
+    "ISBN": "978-0-19-927977-7",
+    "note": "Google-Books-ID: 9WgTDAAAQBAJ",
+    "language": "en",
+    "author": [
+        {
+            "family": "Pattison",
+            "given": "George"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2005",
+                9,
+                22
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology"
+    ]
+}

@@ -1,1 +1,41 @@
-{"id": "http://zotero.org/users/local/HWAwDThz/items/VRHT5E5U", "type": "article-journal", "title": "Introduction: Religion and the New Technologies", "container-title": "Religions", "page": "129", "volume": "8", "issue": "7", "source": "www.mdpi.com", "abstract": "In April 2000, Wired published a controversial article entitled \u201cWhy the Future Doesn\u2019t Need Us\u201d by Joy (2000), co-founder and chief scientist at Sun Microsystems.[...]", "URL": "https://www.mdpi.com/2077-1444/8/7/129", "DOI": "10.3390/rel8070129", "shortTitle": "Introduction", "language": "en", "author": [{"family": "Herzfeld", "given": "Noreen"}], "issued": {"date-parts": [["2017", 7]]}, "accessed": {"date-parts": [["2019", 1, 15]]}, "keyword": ["Technology"]}
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/VRHT5E5U",
+    "type": "article-journal",
+    "title": "Introduction: Religion and the New Technologies",
+    "container-title": "Religions",
+    "page": "129",
+    "volume": "8",
+    "issue": "7",
+    "source": "www.mdpi.com",
+    "abstract": "In April 2000, Wired published a controversial article entitled \u201cWhy the Future Doesn\u2019t Need Us\u201d by Joy (2000), co-founder and chief scientist at Sun Microsystems.[...]",
+    "URL": "https://www.mdpi.com/2077-1444/8/7/129",
+    "DOI": "10.3390/rel8070129",
+    "shortTitle": "Introduction",
+    "language": "en",
+    "author": [
+        {
+            "family": "Herzfeld",
+            "given": "Noreen"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2017",
+                7
+            ]
+        ]
+    },
+    "accessed": {
+        "date-parts": [
+            [
+                "2019",
+                1,
+                15
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology"
+    ]
+}

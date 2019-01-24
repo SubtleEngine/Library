@@ -1,1 +1,40 @@
-{"id": "http://zotero.org/users/local/HWAwDThz/items/BYD2JT3P", "type": "song", "title": "Ep 29: Calvin Mercer\u2014Theology & the Trickiest Questions in Transhumanism", "abstract": "How does religion grapple with transhumanism and radical life extension? What does a theology of Extraterrestrials say about a theology of AI? Is Mind Uploading a rejection of the body, or an affirmation of St Paul's theology of resurrection?", "URL": "https://www.christiantranshumanism.org/podcast/29", "shortTitle": "Ep 29", "language": "en", "author": [{"family": "Redding", "given": "Micah"}, {"family": "Mercer", "given": "Calvin"}], "issued": {"date-parts": [["2017", 3, 6]]}, "accessed": {"date-parts": [["2019", 1, 22]]}, "keyword": ["Technology"]}
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/BYD2JT3P",
+    "type": "song",
+    "title": "Ep 29: Calvin Mercer\u2014Theology & the Trickiest Questions in Transhumanism",
+    "abstract": "How does religion grapple with transhumanism and radical life extension? What does a theology of Extraterrestrials say about a theology of AI? Is Mind Uploading a rejection of the body, or an affirmation of St Paul's theology of resurrection?",
+    "URL": "https://www.christiantranshumanism.org/podcast/29",
+    "shortTitle": "Ep 29",
+    "language": "en",
+    "author": [
+        {
+            "family": "Redding",
+            "given": "Micah"
+        },
+        {
+            "family": "Mercer",
+            "given": "Calvin"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2017",
+                3,
+                6
+            ]
+        ]
+    },
+    "accessed": {
+        "date-parts": [
+            [
+                "2019",
+                1,
+                22
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology"
+    ]
+}

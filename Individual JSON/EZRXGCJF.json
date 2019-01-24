@@ -1,1 +1,38 @@
-{"id": "http://zotero.org/users/local/HWAwDThz/items/EZRXGCJF", "type": "post-weblog", "title": "Exploring incarnation: Can transhumanism enrich a Christian theology of humanity?", "container-title": "Baptist News Global", "abstract": "Some observers believe transhumanism touches on a fundamental religious question: the meaning of humanity.", "URL": "https://baptistnews.com/article/exploring-incarnation-can-transhumanism-enrich-a-christian-theology-of-humanity/", "shortTitle": "Exploring incarnation", "language": "en-US", "author": [{"family": "Waller", "given": "Matthew"}], "issued": {"date-parts": [["2016", 7, 13]]}, "accessed": {"date-parts": [["2019", 1, 22]]}, "keyword": ["Technology", "Transhumanism"]}
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/EZRXGCJF",
+    "type": "post-weblog",
+    "title": "Exploring incarnation: Can transhumanism enrich a Christian theology of humanity?",
+    "container-title": "Baptist News Global",
+    "abstract": "Some observers believe transhumanism touches on a fundamental religious question: the meaning of humanity.",
+    "URL": "https://baptistnews.com/article/exploring-incarnation-can-transhumanism-enrich-a-christian-theology-of-humanity/",
+    "shortTitle": "Exploring incarnation",
+    "language": "en-US",
+    "author": [
+        {
+            "family": "Waller",
+            "given": "Matthew"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2016",
+                7,
+                13
+            ]
+        ]
+    },
+    "accessed": {
+        "date-parts": [
+            [
+                "2019",
+                1,
+                22
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology",
+        "Transhumanism"
+    ]
+}

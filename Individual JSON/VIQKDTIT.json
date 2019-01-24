@@ -1,1 +1,40 @@
-{"id": "http://zotero.org/users/local/HWAwDThz/items/VIQKDTIT", "type": "song", "title": "Ep 39: Ilia Delio, Christ & Evolution", "abstract": "Ilia Delio explains how Jesus is like the Singularity, shows us why Christianity is the religion of evolution, and explores the thought of Teilhard de Chardin\u2014the 1930s priest who foresaw the internet.", "URL": "https://www.christiantranshumanism.org/podcast/39", "shortTitle": "Ep 39", "language": "en", "author": [{"family": "Redding", "given": "Micah"}, {"family": "Delio", "given": "Ilia"}], "issued": {"date-parts": [["2018", 5, 31]]}, "accessed": {"date-parts": [["2019", 1, 22]]}, "keyword": ["Technology"]}
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/VIQKDTIT",
+    "type": "song",
+    "title": "Ep 39: Ilia Delio, Christ & Evolution",
+    "abstract": "Ilia Delio explains how Jesus is like the Singularity, shows us why Christianity is the religion of evolution, and explores the thought of Teilhard de Chardin\u2014the 1930s priest who foresaw the internet.",
+    "URL": "https://www.christiantranshumanism.org/podcast/39",
+    "shortTitle": "Ep 39",
+    "language": "en",
+    "author": [
+        {
+            "family": "Redding",
+            "given": "Micah"
+        },
+        {
+            "family": "Delio",
+            "given": "Ilia"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2018",
+                5,
+                31
+            ]
+        ]
+    },
+    "accessed": {
+        "date-parts": [
+            [
+                "2019",
+                1,
+                22
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology"
+    ]
+}

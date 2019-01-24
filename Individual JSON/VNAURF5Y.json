@@ -1,1 +1,40 @@
-{"id": "http://zotero.org/users/local/HWAwDThz/items/VNAURF5Y", "type": "song", "title": "Ep 41: David Pearce & Engineering Paradise", "abstract": "David Pearce lays out a plan for building heaven on earth, shows us why vegans need more science fiction, and explains why computers will never become conscious.", "URL": "https://www.christiantranshumanism.org/podcast/41", "shortTitle": "Ep 41", "language": "en", "author": [{"family": "Redding", "given": "Micah"}, {"family": "Pearce", "given": "David"}], "issued": {"date-parts": [["2018", 6, 21]]}, "accessed": {"date-parts": [["2019", 1, 22]]}, "keyword": ["Technology"]}
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/VNAURF5Y",
+    "type": "song",
+    "title": "Ep 41: David Pearce & Engineering Paradise",
+    "abstract": "David Pearce lays out a plan for building heaven on earth, shows us why vegans need more science fiction, and explains why computers will never become conscious.",
+    "URL": "https://www.christiantranshumanism.org/podcast/41",
+    "shortTitle": "Ep 41",
+    "language": "en",
+    "author": [
+        {
+            "family": "Redding",
+            "given": "Micah"
+        },
+        {
+            "family": "Pearce",
+            "given": "David"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2018",
+                6,
+                21
+            ]
+        ]
+    },
+    "accessed": {
+        "date-parts": [
+            [
+                "2019",
+                1,
+                22
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology"
+    ]
+}

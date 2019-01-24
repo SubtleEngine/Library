@@ -1,1 +1,47 @@
-{"id": "http://zotero.org/users/local/HWAwDThz/items/VMPNEXK7", "type": "post-weblog", "title": "Relating to Artificial Persons in Everyday Life", "container-title": "AI and Christianity", "abstract": "How how does our treatment of artificial persons shape our character, relationships, and human understanding?", "URL": "https://medium.com/ai-and-christianity/relating-to-artificial-persons-in-everyday-life-60bd9ff005ae", "author": [{"family": "Matias", "given": "J. Nathan"}, {"family": "Manikonda", "given": "Lydia"}, {"family": "Hale", "given": "Scott"}, {"family": "Arnold", "given": "Ken"}], "issued": {"date-parts": [["2017", 10, 26]]}, "accessed": {"date-parts": [["2019", 1, 4]]}, "keyword": ["Technology"]}
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/VMPNEXK7",
+    "type": "post-weblog",
+    "title": "Relating to Artificial Persons in Everyday Life",
+    "container-title": "AI and Christianity",
+    "abstract": "How how does our treatment of artificial persons shape our character, relationships, and human understanding?",
+    "URL": "https://medium.com/ai-and-christianity/relating-to-artificial-persons-in-everyday-life-60bd9ff005ae",
+    "author": [
+        {
+            "family": "Matias",
+            "given": "J. Nathan"
+        },
+        {
+            "family": "Manikonda",
+            "given": "Lydia"
+        },
+        {
+            "family": "Hale",
+            "given": "Scott"
+        },
+        {
+            "family": "Arnold",
+            "given": "Ken"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2017",
+                10,
+                26
+            ]
+        ]
+    },
+    "accessed": {
+        "date-parts": [
+            [
+                "2019",
+                1,
+                4
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology"
+    ]
+}

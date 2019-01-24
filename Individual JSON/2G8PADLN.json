@@ -1,1 +1,36 @@
-{"id": "http://zotero.org/users/local/HWAwDThz/items/2G8PADLN", "type": "motion_picture", "title": "Saving Technology: Is it our only hope?", "abstract": "The Veritas Forum invites students and faculty to ask life's hardest questions. With a commitment to courageous discourse we put the historic Christian faith in dialogue with other beliefs and invite participants from all backgrounds to pursue Truth together.", "URL": "http://www.veritas.org/saving-technology-hope/", "shortTitle": "Saving Technology", "language": "en-US", "author": [{"family": "Picard", "given": "Rosalind"}], "issued": {"date-parts": [["2016", 3, 18]]}, "accessed": {"date-parts": [["2019", 1, 23]]}, "keyword": ["Technology"]}
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/2G8PADLN",
+    "type": "motion_picture",
+    "title": "Saving Technology: Is it our only hope?",
+    "abstract": "The Veritas Forum invites students and faculty to ask life's hardest questions. With a commitment to courageous discourse we put the historic Christian faith in dialogue with other beliefs and invite participants from all backgrounds to pursue Truth together.",
+    "URL": "http://www.veritas.org/saving-technology-hope/",
+    "shortTitle": "Saving Technology",
+    "language": "en-US",
+    "author": [
+        {
+            "family": "Picard",
+            "given": "Rosalind"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2016",
+                3,
+                18
+            ]
+        ]
+    },
+    "accessed": {
+        "date-parts": [
+            [
+                "2019",
+                1,
+                23
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology"
+    ]
+}

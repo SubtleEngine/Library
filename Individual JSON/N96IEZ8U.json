@@ -1,1 +1,36 @@
-{"id": "http://zotero.org/users/local/HWAwDThz/items/N96IEZ8U", "type": "post-weblog", "title": "Being Human in an Age of AI | Connecting with Culture", "container-title": "LICC", "abstract": "What does it mean to be human? This is a question which AI and robotics is raising with new intensity. Throughout history, we have tried to understand ourselves by reference to the leading technologies of the age. In the 18th century, for example, the French philosopher Diderot compared the human to a precision clock: \u2018his \u2026", "URL": "https://www.licc.org.uk/resources/being-human/", "language": "en", "author": [{"family": "Wyatt", "given": "John"}], "issued": {"date-parts": [["2018", 6, 28]]}, "accessed": {"date-parts": [["2019", 1, 23]]}, "keyword": ["Technology"]}
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/N96IEZ8U",
+    "type": "post-weblog",
+    "title": "Being Human in an Age of AI | Connecting with Culture",
+    "container-title": "LICC",
+    "abstract": "What does it mean to be human? This is a question which AI and robotics is raising with new intensity. Throughout history, we have tried to understand ourselves by reference to the leading technologies of the age. In the 18th century, for example, the French philosopher Diderot compared the human to a precision clock: \u2018his \u2026",
+    "URL": "https://www.licc.org.uk/resources/being-human/",
+    "language": "en",
+    "author": [
+        {
+            "family": "Wyatt",
+            "given": "John"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2018",
+                6,
+                28
+            ]
+        ]
+    },
+    "accessed": {
+        "date-parts": [
+            [
+                "2019",
+                1,
+                23
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology"
+    ]
+}

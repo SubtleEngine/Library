@@ -1,1 +1,40 @@
-{"id": "http://zotero.org/users/local/HWAwDThz/items/WQHMTVPL", "type": "song", "title": "Ep 28: Robert Walden Kurtz & the Zero Sum Game", "abstract": "Can a Seventh-Day Adventist be a transhumanist? Robert Walden Kurtz, Adventist pastor and Professor of Philosophy, says yes! Join us as we discuss robots stealing your job, mind-mapping Jesus, the hidden threat of washing machines, zero-sum games, hacking the mind, and radical humility.", "URL": "https://www.christiantranshumanism.org/podcast/28", "shortTitle": "Ep 28", "language": "en", "author": [{"family": "Redding", "given": "Micah"}, {"family": "Kurtz", "given": "Robert Walden"}], "issued": {"date-parts": [["2017", 2, 21]]}, "accessed": {"date-parts": [["2019", 1, 22]]}, "keyword": ["Technology"]}
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/WQHMTVPL",
+    "type": "song",
+    "title": "Ep 28: Robert Walden Kurtz & the Zero Sum Game",
+    "abstract": "Can a Seventh-Day Adventist be a transhumanist? Robert Walden Kurtz, Adventist pastor and Professor of Philosophy, says yes! Join us as we discuss robots stealing your job, mind-mapping Jesus, the hidden threat of washing machines, zero-sum games, hacking the mind, and radical humility.",
+    "URL": "https://www.christiantranshumanism.org/podcast/28",
+    "shortTitle": "Ep 28",
+    "language": "en",
+    "author": [
+        {
+            "family": "Redding",
+            "given": "Micah"
+        },
+        {
+            "family": "Kurtz",
+            "given": "Robert Walden"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2017",
+                2,
+                21
+            ]
+        ]
+    },
+    "accessed": {
+        "date-parts": [
+            [
+                "2019",
+                1,
+                22
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology"
+    ]
+}

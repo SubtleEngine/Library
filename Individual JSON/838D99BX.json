@@ -1,1 +1,40 @@
-{"id": "http://zotero.org/users/local/HWAwDThz/items/838D99BX", "type": "song", "title": "Ep 43: Derek Webb & the AI", "abstract": "Derek Webb gets inside the head of the first A.I. waking up to consciousness.", "URL": "https://www.christiantranshumanism.org/podcast/43", "shortTitle": "Ep 43", "language": "en", "author": [{"family": "Redding", "given": "Micah"}, {"family": "Webb", "given": "Derek"}], "issued": {"date-parts": [["2018", 7, 26]]}, "accessed": {"date-parts": [["2019", 1, 22]]}, "keyword": ["Technology"]}
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/838D99BX",
+    "type": "song",
+    "title": "Ep 43: Derek Webb & the AI",
+    "abstract": "Derek Webb gets inside the head of the first A.I. waking up to consciousness.",
+    "URL": "https://www.christiantranshumanism.org/podcast/43",
+    "shortTitle": "Ep 43",
+    "language": "en",
+    "author": [
+        {
+            "family": "Redding",
+            "given": "Micah"
+        },
+        {
+            "family": "Webb",
+            "given": "Derek"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2018",
+                7,
+                26
+            ]
+        ]
+    },
+    "accessed": {
+        "date-parts": [
+            [
+                "2019",
+                1,
+                22
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology"
+    ]
+}

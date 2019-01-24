@@ -1,1 +1,37 @@
-{"id": "http://zotero.org/users/local/HWAwDThz/items/6RZ2XBCK", "type": "post-weblog", "title": "Artificial Intelligence: A Guide to the Key Issues", "container-title": "Bishop Steven's Blog", "abstract": "I\u2019ve been exploring Artificial Intelligence for some time now.  In June I was appointed to sit on a new House of Lords Select Committee on AI as part of my work in the House of Lords.", "URL": "https://blogs.oxford.anglican.org/artificial-intelligence-guide-key-issues/", "shortTitle": "Artificial Intelligence", "language": "en-GB", "author": [{"family": "Croft", "given": "Steven"}], "issued": {"date-parts": [["2017", 8, 25]]}, "accessed": {"date-parts": [["2019", 1, 4]]}, "keyword": ["Technology"]}
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/6RZ2XBCK",
+    "type": "post-weblog",
+    "title": "Artificial Intelligence: A Guide to the Key Issues",
+    "container-title": "Bishop Steven's Blog",
+    "abstract": "I\u2019ve been exploring Artificial Intelligence for some time now.  In June I was appointed to sit on a new House of Lords Select Committee on AI as part of my work in the House of Lords.",
+    "URL": "https://blogs.oxford.anglican.org/artificial-intelligence-guide-key-issues/",
+    "shortTitle": "Artificial Intelligence",
+    "language": "en-GB",
+    "author": [
+        {
+            "family": "Croft",
+            "given": "Steven"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2017",
+                8,
+                25
+            ]
+        ]
+    },
+    "accessed": {
+        "date-parts": [
+            [
+                "2019",
+                1,
+                4
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology"
+    ]
+}

@@ -1,1 +1,40 @@
-{"id": "http://zotero.org/users/local/HWAwDThz/items/9X82ZT78", "type": "article-journal", "title": "Technology and Man: A Christian Vision", "container-title": "Technology and Culture", "page": "422-442", "volume": "3", "issue": "4", "source": "JSTOR", "archive": "JSTOR", "URL": "https://www.jstor.org/stable/3100994", "DOI": "10.2307/3100994", "ISSN": "0040-165X", "shortTitle": "Technology and Man", "author": [{"family": "W. Norris Clarke", "given": "S. J."}], "issued": {"date-parts": [["1962"]]}, "accessed": {"date-parts": [["2019", 1, 16]]}, "keyword": ["Technology"]}
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/9X82ZT78",
+    "type": "article-journal",
+    "title": "Technology and Man: A Christian Vision",
+    "container-title": "Technology and Culture",
+    "page": "422-442",
+    "volume": "3",
+    "issue": "4",
+    "source": "JSTOR",
+    "archive": "JSTOR",
+    "URL": "https://www.jstor.org/stable/3100994",
+    "DOI": "10.2307/3100994",
+    "ISSN": "0040-165X",
+    "shortTitle": "Technology and Man",
+    "author": [
+        {
+            "family": "W. Norris Clarke",
+            "given": "S. J."
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "1962"
+            ]
+        ]
+    },
+    "accessed": {
+        "date-parts": [
+            [
+                "2019",
+                1,
+                16
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology"
+    ]
+}

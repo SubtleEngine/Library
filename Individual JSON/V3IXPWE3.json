@@ -1,1 +1,40 @@
-{"id": "http://zotero.org/users/local/HWAwDThz/items/V3IXPWE3", "type": "song", "title": "Ep 32: Shannon Vyff, Cryonics & Religious Education", "abstract": "Is cryonics selfish? What do Harry Potter, transhumanism &amp; religious education have in common? What happens when kids go door-to-door raising money for life extension? Shannon Vyff\u2014Transhumanist, Unitarian Universalist, and author of \u201c21st Century Kids\u201c\u2014discusses all this and more!", "URL": "https://www.christiantranshumanism.org/podcast/32", "shortTitle": "Ep 32", "language": "en", "author": [{"family": "Redding", "given": "Micah"}, {"family": "Vyff", "given": "Shannon"}], "issued": {"date-parts": [["2017", 4, 11]]}, "accessed": {"date-parts": [["2019", 1, 22]]}, "keyword": ["Technology"]}
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/V3IXPWE3",
+    "type": "song",
+    "title": "Ep 32: Shannon Vyff, Cryonics & Religious Education",
+    "abstract": "Is cryonics selfish? What do Harry Potter, transhumanism &amp; religious education have in common? What happens when kids go door-to-door raising money for life extension? Shannon Vyff\u2014Transhumanist, Unitarian Universalist, and author of \u201c21st Century Kids\u201c\u2014discusses all this and more!",
+    "URL": "https://www.christiantranshumanism.org/podcast/32",
+    "shortTitle": "Ep 32",
+    "language": "en",
+    "author": [
+        {
+            "family": "Redding",
+            "given": "Micah"
+        },
+        {
+            "family": "Vyff",
+            "given": "Shannon"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2017",
+                4,
+                11
+            ]
+        ]
+    },
+    "accessed": {
+        "date-parts": [
+            [
+                "2019",
+                1,
+                22
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology"
+    ]
+}

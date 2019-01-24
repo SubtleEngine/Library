@@ -1,1 +1,36 @@
-{"id": "http://zotero.org/users/local/HWAwDThz/items/X7G4B7QJ", "type": "motion_picture", "title": "Me, Myself and A.I.", "abstract": "What Makes us Human?", "URL": "http://www.veritas.org/me-myself-and-i/", "language": "en-US", "author": [{"family": "Picard", "given": "Rosalind"}], "issued": {"date-parts": [["2011", 11, 3]]}, "accessed": {"date-parts": [["2019", 1, 23]]}, "keyword": ["Technology", "Artificial Intelligence"]}
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/X7G4B7QJ",
+    "type": "motion_picture",
+    "title": "Me, Myself and A.I.",
+    "abstract": "What Makes us Human?",
+    "URL": "http://www.veritas.org/me-myself-and-i/",
+    "language": "en-US",
+    "author": [
+        {
+            "family": "Picard",
+            "given": "Rosalind"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2011",
+                11,
+                3
+            ]
+        ]
+    },
+    "accessed": {
+        "date-parts": [
+            [
+                "2019",
+                1,
+                23
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology",
+        "Artificial Intelligence"
+    ]
+}

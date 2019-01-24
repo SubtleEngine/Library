@@ -1,1 +1,47 @@
-{"id": "http://zotero.org/users/local/HWAwDThz/items/Q3AJCCIT", "type": "post-weblog", "title": "Artificial Intelligence in Christian Thought and Practice", "container-title": "Medium", "abstract": "This series by Christian computer scientists introduces questions for Christians about AI and its role in society", "URL": "https://medium.com/ai-and-christianity/artificial-intelligence-in-christian-thought-and-practice-20ec8635a94f", "author": [{"family": "Matias", "given": "J. Nathan"}, {"family": "Manikonda", "given": "Lydia"}, {"family": "Hale", "given": "Scott"}, {"family": "Arnold", "given": "Ken"}], "issued": {"date-parts": [["2017", 10, 19]]}, "accessed": {"date-parts": [["2019", 1, 4]]}, "keyword": ["Technology"]}
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/Q3AJCCIT",
+    "type": "post-weblog",
+    "title": "Artificial Intelligence in Christian Thought and Practice",
+    "container-title": "Medium",
+    "abstract": "This series by Christian computer scientists introduces questions for Christians about AI and its role in society",
+    "URL": "https://medium.com/ai-and-christianity/artificial-intelligence-in-christian-thought-and-practice-20ec8635a94f",
+    "author": [
+        {
+            "family": "Matias",
+            "given": "J. Nathan"
+        },
+        {
+            "family": "Manikonda",
+            "given": "Lydia"
+        },
+        {
+            "family": "Hale",
+            "given": "Scott"
+        },
+        {
+            "family": "Arnold",
+            "given": "Ken"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2017",
+                10,
+                19
+            ]
+        ]
+    },
+    "accessed": {
+        "date-parts": [
+            [
+                "2019",
+                1,
+                4
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology"
+    ]
+}

@@ -1,1 +1,41 @@
-{"id": "http://zotero.org/users/local/HWAwDThz/items/EBJ5SM48", "type": "song", "title": "Ep 12: Politics & Transhumanism", "abstract": "Micah and Amy venture into the forbidden world of transhumanist political commentary, while Micah keeps trying to change the subject to almost anything else, including Alien Death Stars, Greek tragedies, time travel, and the first Christian heresy.", "URL": "https://www.christiantranshumanism.org/podcast/12", "shortTitle": "Ep 12", "language": "en", "author": [{"family": "Redding", "given": "Micah"}, {"family": "Gaskin", "given": "Amy"}], "issued": {"date-parts": [["2016", 2, 1]]}, "accessed": {"date-parts": [["2019", 1, 22]]}, "keyword": ["Technology", "Transhumanism"]}
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/EBJ5SM48",
+    "type": "song",
+    "title": "Ep 12: Politics & Transhumanism",
+    "abstract": "Micah and Amy venture into the forbidden world of transhumanist political commentary, while Micah keeps trying to change the subject to almost anything else, including Alien Death Stars, Greek tragedies, time travel, and the first Christian heresy.",
+    "URL": "https://www.christiantranshumanism.org/podcast/12",
+    "shortTitle": "Ep 12",
+    "language": "en",
+    "author": [
+        {
+            "family": "Redding",
+            "given": "Micah"
+        },
+        {
+            "family": "Gaskin",
+            "given": "Amy"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2016",
+                2,
+                1
+            ]
+        ]
+    },
+    "accessed": {
+        "date-parts": [
+            [
+                "2019",
+                1,
+                22
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology",
+        "Transhumanism"
+    ]
+}

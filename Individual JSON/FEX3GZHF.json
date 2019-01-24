@@ -1,1 +1,37 @@
-{"id": "http://zotero.org/users/local/HWAwDThz/items/FEX3GZHF", "type": "post-weblog", "title": "Why I Became a Christian Transhumanist", "container-title": "Motherboard", "abstract": "Christians are embracing cyborgs, cryogenics, and radical life extension.", "URL": "https://motherboard.vice.com/en_us/article/9akxm3/why-i-became-a-christian-transhumanist", "language": "en-US", "author": [{"family": "Redding", "given": "Micah"}], "issued": {"date-parts": [["2015", 8, 14]]}, "accessed": {"date-parts": [["2019", 1, 22]]}, "keyword": ["Technology", "Transhumanism"]}
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/FEX3GZHF",
+    "type": "post-weblog",
+    "title": "Why I Became a Christian Transhumanist",
+    "container-title": "Motherboard",
+    "abstract": "Christians are embracing cyborgs, cryogenics, and radical life extension.",
+    "URL": "https://motherboard.vice.com/en_us/article/9akxm3/why-i-became-a-christian-transhumanist",
+    "language": "en-US",
+    "author": [
+        {
+            "family": "Redding",
+            "given": "Micah"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2015",
+                8,
+                14
+            ]
+        ]
+    },
+    "accessed": {
+        "date-parts": [
+            [
+                "2019",
+                1,
+                22
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology",
+        "Transhumanism"
+    ]
+}

@@ -1,1 +1,31 @@
-{"id": "http://zotero.org/users/local/HWAwDThz/items/Y8FDWZRQ", "type": "book", "title": "Christian Ethics in a Technological Age", "publisher": "Wm. B. Eerdmans Publishing", "number-of-pages": "419", "source": "Google Books", "abstract": "Through close analysis of the historical and conceptual roots of modern science and technology, Brian Brock here develops a theological ethic addressing a wide range of contemporary perplexities about the moral challenges raised by new technology.", "ISBN": "978-0-8028-6517-5", "note": "Google-Books-ID: 2I2_i1VFoyYC", "language": "en", "author": [{"family": "Brock", "given": "Brian"}], "issued": {"date-parts": [["2010", 6, 28]]}, "keyword": ["Ethics", "Technology"]}
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/Y8FDWZRQ",
+    "type": "book",
+    "title": "Christian Ethics in a Technological Age",
+    "publisher": "Wm. B. Eerdmans Publishing",
+    "number-of-pages": "419",
+    "source": "Google Books",
+    "abstract": "Through close analysis of the historical and conceptual roots of modern science and technology, Brian Brock here develops a theological ethic addressing a wide range of contemporary perplexities about the moral challenges raised by new technology.",
+    "ISBN": "978-0-8028-6517-5",
+    "note": "Google-Books-ID: 2I2_i1VFoyYC",
+    "language": "en",
+    "author": [
+        {
+            "family": "Brock",
+            "given": "Brian"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2010",
+                6,
+                28
+            ]
+        ]
+    },
+    "keyword": [
+        "Ethics",
+        "Technology"
+    ]
+}

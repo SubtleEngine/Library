@@ -1,1 +1,40 @@
-{"id": "http://zotero.org/users/local/HWAwDThz/items/GU4IDMKK", "type": "song", "title": "Ep 35: David Deutsch & Humanity's Infinite Reach", "abstract": "David Deutsch explains the physics of humanity\u2019s profound place in the cosmos\u2014and our potentially unlimited future.", "URL": "https://www.christiantranshumanism.org/podcast/35", "shortTitle": "Ep 35", "language": "en", "author": [{"family": "Redding", "given": "Micah"}, {"family": "Deutsch", "given": "David"}], "issued": {"date-parts": [["2017", 7, 28]]}, "accessed": {"date-parts": [["2019", 1, 22]]}, "keyword": ["Technology"]}
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/GU4IDMKK",
+    "type": "song",
+    "title": "Ep 35: David Deutsch & Humanity's Infinite Reach",
+    "abstract": "David Deutsch explains the physics of humanity\u2019s profound place in the cosmos\u2014and our potentially unlimited future.",
+    "URL": "https://www.christiantranshumanism.org/podcast/35",
+    "shortTitle": "Ep 35",
+    "language": "en",
+    "author": [
+        {
+            "family": "Redding",
+            "given": "Micah"
+        },
+        {
+            "family": "Deutsch",
+            "given": "David"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2017",
+                7,
+                28
+            ]
+        ]
+    },
+    "accessed": {
+        "date-parts": [
+            [
+                "2019",
+                1,
+                22
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology"
+    ]
+}

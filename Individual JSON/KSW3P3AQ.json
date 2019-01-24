@@ -1,1 +1,41 @@
-{"id": "http://zotero.org/users/local/HWAwDThz/items/KSW3P3AQ", "type": "article-journal", "title": "The Glorified Body: Corporealities in the Catholic Tradition", "container-title": "Religions", "page": "166", "volume": "8", "issue": "9", "source": "www.mdpi.com", "abstract": "The rise of new technologies\u2014robotics, artificial intelligence, and nanotechnology among them\u2014gave the American computer scientist Bill Joy certain pause for deep concern; these, he cautioned, carry the very real potential to push humankind toward extinction. In this essay, I explore an often understated reference in conversations on the promises and shortcomings of said technologies: the disposability of the human body. The Catholic tradition, in particular, boasts a rich and extensive collection of teachings on the theology of the body, which addresses, among other things, the significance of the body for human identity, its relationship to the soul, our (restrained) rights and mastery over it, its (proper) uses over the course of life, its relationship with other bodies, the value of its limitations, and its postmortem fate. Here, I engage the Church\u2019s understanding of the centrality of the body alongside currents in transhumanist philosophy which champion technologies that neglect, or intentionally seek to discard, the body in the name of progress.", "URL": "https://www.mdpi.com/2077-1444/8/9/166", "DOI": "10.3390/rel8090166", "shortTitle": "The Glorified Body", "language": "en", "author": [{"family": "Labrecque", "given": "Cory Andrew"}], "issued": {"date-parts": [["2017", 9]]}, "accessed": {"date-parts": [["2019", 1, 15]]}, "keyword": ["Technology"]}
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/KSW3P3AQ",
+    "type": "article-journal",
+    "title": "The Glorified Body: Corporealities in the Catholic Tradition",
+    "container-title": "Religions",
+    "page": "166",
+    "volume": "8",
+    "issue": "9",
+    "source": "www.mdpi.com",
+    "abstract": "The rise of new technologies\u2014robotics, artificial intelligence, and nanotechnology among them\u2014gave the American computer scientist Bill Joy certain pause for deep concern; these, he cautioned, carry the very real potential to push humankind toward extinction. In this essay, I explore an often understated reference in conversations on the promises and shortcomings of said technologies: the disposability of the human body. The Catholic tradition, in particular, boasts a rich and extensive collection of teachings on the theology of the body, which addresses, among other things, the significance of the body for human identity, its relationship to the soul, our (restrained) rights and mastery over it, its (proper) uses over the course of life, its relationship with other bodies, the value of its limitations, and its postmortem fate. Here, I engage the Church\u2019s understanding of the centrality of the body alongside currents in transhumanist philosophy which champion technologies that neglect, or intentionally seek to discard, the body in the name of progress.",
+    "URL": "https://www.mdpi.com/2077-1444/8/9/166",
+    "DOI": "10.3390/rel8090166",
+    "shortTitle": "The Glorified Body",
+    "language": "en",
+    "author": [
+        {
+            "family": "Labrecque",
+            "given": "Cory Andrew"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2017",
+                9
+            ]
+        ]
+    },
+    "accessed": {
+        "date-parts": [
+            [
+                "2019",
+                1,
+                15
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology"
+    ]
+}

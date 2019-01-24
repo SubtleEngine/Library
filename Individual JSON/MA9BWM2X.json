@@ -1,1 +1,41 @@
-{"id": "http://zotero.org/users/local/HWAwDThz/items/MA9BWM2X", "type": "song", "title": "Ep 10: Adam Ericksen, Rene Girard & The Mechanisms of Violence", "abstract": "Micah Redding talks to Adam Ericksen about Rene Girard, the mechanisms of violence, and how Jesus unravels the ancient cycle of myth and scapegoating.", "URL": "https://www.christiantranshumanism.org/podcast/10", "shortTitle": "Ep 10", "language": "en", "author": [{"family": "Redding", "given": "Micah"}, {"family": "Ericksen", "given": "Adam"}], "issued": {"date-parts": [["2015", 11, 30]]}, "accessed": {"date-parts": [["2019", 1, 22]]}, "keyword": ["Technology", "Transhumanism"]}
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/MA9BWM2X",
+    "type": "song",
+    "title": "Ep 10: Adam Ericksen, Rene Girard & The Mechanisms of Violence",
+    "abstract": "Micah Redding talks to Adam Ericksen about Rene Girard, the mechanisms of violence, and how Jesus unravels the ancient cycle of myth and scapegoating.",
+    "URL": "https://www.christiantranshumanism.org/podcast/10",
+    "shortTitle": "Ep 10",
+    "language": "en",
+    "author": [
+        {
+            "family": "Redding",
+            "given": "Micah"
+        },
+        {
+            "family": "Ericksen",
+            "given": "Adam"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2015",
+                11,
+                30
+            ]
+        ]
+    },
+    "accessed": {
+        "date-parts": [
+            [
+                "2019",
+                1,
+                22
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology",
+        "Transhumanism"
+    ]
+}

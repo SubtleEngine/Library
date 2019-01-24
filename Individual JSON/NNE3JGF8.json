@@ -1,1 +1,31 @@
-{"id": "http://zotero.org/users/local/HWAwDThz/items/NNE3JGF8", "type": "book", "title": "The Religion of Technology: The Divinity of Man and the Spirit of Invention", "publisher": "Knopf Doubleday Publishing Group", "number-of-pages": "339", "source": "Google Books", "abstract": "Arguing against the widely held belief that technology and religion are at war with each other, David F. Noble's groundbreaking book reveals the religious roots and spirit of Western technology. \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 It links the technological enthusiasms of the present day with the ancient and enduring Christian expectation of recovering humankind's lost divinity. Covering a period of a thousand years, Noble traces the evolution of the Western idea of technological development from the ninth century, when the useful arts became connected to the concept of redemption, up to the twentieth, when humans began to exercise God-like knowledge and powers.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Noble describes how technological advance accelerated at the very point when it was invested with spiritual significance. By examining the imaginings of monks, explorers, magi, scientists, Freemasons, and engineers, this historical account brings to light an other-worldly inspiration behind the apparently worldly endeavors by which we habitually define Western civilization. Thus we see that Isaac Newton devoted his lifetime to the interpretation of prophecy. Joseph Priestley was the discoverer of oxygen and a founder of Unitarianism. Freemasons were early advocates of industrialization and the fathers of the engineering profession. Wernher von Braun saw spaceflight as a millenarian new beginning for humankind.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 The narrative moves into our own time through the technological enterprises of the last half of the twentieth century: nuclear weapons, manned space exploration, Artificial Intelligence, and genetic engineering. Here the book suggests that the convergence of technology and religion has outlived its usefulness, that though it once contributed to human well-being, it has now become a threat to our survival. Viewed at the dawn of the new millennium, the technological means upon which we have come to rely for the preservation and enlargement of our lives betray an increasing impatience with life and a disdainful disregard for mortal needs. David F. Noble thus contends that we must collectively strive to disabuse ourselves of the inherited religion of technology and begin rigorously to re-examine our enchantment with unregulated technological advance.", "ISBN": "978-0-307-82853-8", "note": "Google-Books-ID: xKIyIiCmyYYC", "shortTitle": "The Religion of Technology", "language": "en", "author": [{"family": "Noble", "given": "David F."}], "issued": {"date-parts": [["2013", 1, 23]]}, "keyword": ["Technology"]}
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/NNE3JGF8",
+    "type": "book",
+    "title": "The Religion of Technology: The Divinity of Man and the Spirit of Invention",
+    "publisher": "Knopf Doubleday Publishing Group",
+    "number-of-pages": "339",
+    "source": "Google Books",
+    "abstract": "Arguing against the widely held belief that technology and religion are at war with each other, David F. Noble's groundbreaking book reveals the religious roots and spirit of Western technology. \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 It links the technological enthusiasms of the present day with the ancient and enduring Christian expectation of recovering humankind's lost divinity. Covering a period of a thousand years, Noble traces the evolution of the Western idea of technological development from the ninth century, when the useful arts became connected to the concept of redemption, up to the twentieth, when humans began to exercise God-like knowledge and powers.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Noble describes how technological advance accelerated at the very point when it was invested with spiritual significance. By examining the imaginings of monks, explorers, magi, scientists, Freemasons, and engineers, this historical account brings to light an other-worldly inspiration behind the apparently worldly endeavors by which we habitually define Western civilization. Thus we see that Isaac Newton devoted his lifetime to the interpretation of prophecy. Joseph Priestley was the discoverer of oxygen and a founder of Unitarianism. Freemasons were early advocates of industrialization and the fathers of the engineering profession. Wernher von Braun saw spaceflight as a millenarian new beginning for humankind.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 The narrative moves into our own time through the technological enterprises of the last half of the twentieth century: nuclear weapons, manned space exploration, Artificial Intelligence, and genetic engineering. Here the book suggests that the convergence of technology and religion has outlived its usefulness, that though it once contributed to human well-being, it has now become a threat to our survival. Viewed at the dawn of the new millennium, the technological means upon which we have come to rely for the preservation and enlargement of our lives betray an increasing impatience with life and a disdainful disregard for mortal needs. David F. Noble thus contends that we must collectively strive to disabuse ourselves of the inherited religion of technology and begin rigorously to re-examine our enchantment with unregulated technological advance.",
+    "ISBN": "978-0-307-82853-8",
+    "note": "Google-Books-ID: xKIyIiCmyYYC",
+    "shortTitle": "The Religion of Technology",
+    "language": "en",
+    "author": [
+        {
+            "family": "Noble",
+            "given": "David F."
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2013",
+                1,
+                23
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology"
+    ]
+}

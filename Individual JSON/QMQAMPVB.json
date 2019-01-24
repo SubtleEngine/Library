@@ -1,1 +1,40 @@
-{"id": "http://zotero.org/users/local/HWAwDThz/items/QMQAMPVB", "type": "song", "title": "Ep 31: Peter Enns & How to Stop Defending the Bible (So You Can Actually Read It)", "abstract": "How can certainty be a form of idolatry? Why should Christians embrace the humanity of the scriptures? How did an existentialist rant sneak into the Bible? And what does that teach us about faith? Peter Enns joins us to explore all these questions and more!", "URL": "https://www.christiantranshumanism.org/podcast/31", "shortTitle": "Ep 31", "language": "en", "author": [{"family": "Redding", "given": "Micah"}, {"family": "Enns", "given": "Peter"}], "issued": {"date-parts": [["2017", 3, 21]]}, "accessed": {"date-parts": [["2019", 1, 22]]}, "keyword": ["Technology"]}
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/QMQAMPVB",
+    "type": "song",
+    "title": "Ep 31: Peter Enns & How to Stop Defending the Bible (So You Can Actually Read It)",
+    "abstract": "How can certainty be a form of idolatry? Why should Christians embrace the humanity of the scriptures? How did an existentialist rant sneak into the Bible? And what does that teach us about faith? Peter Enns joins us to explore all these questions and more!",
+    "URL": "https://www.christiantranshumanism.org/podcast/31",
+    "shortTitle": "Ep 31",
+    "language": "en",
+    "author": [
+        {
+            "family": "Redding",
+            "given": "Micah"
+        },
+        {
+            "family": "Enns",
+            "given": "Peter"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2017",
+                3,
+                21
+            ]
+        ]
+    },
+    "accessed": {
+        "date-parts": [
+            [
+                "2019",
+                1,
+                22
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology"
+    ]
+}

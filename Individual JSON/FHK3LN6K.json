@@ -1,1 +1,41 @@
-{"id": "http://zotero.org/users/local/HWAwDThz/items/FHK3LN6K", "type": "song", "title": "Ep 14: Paul Wallace & The Stars Beneath Us", "abstract": "Paul Wallace talks about the exhilaration and vertigo of living in expanding cosmos, and how this both humbles us, and helps us rise to the challenge of suffering.", "URL": "https://www.christiantranshumanism.org/podcast/14", "shortTitle": "Ep 14", "language": "en", "author": [{"family": "Redding", "given": "Micah"}, {"family": "Wallace", "given": "Paul"}], "issued": {"date-parts": [["2016", 3, 16]]}, "accessed": {"date-parts": [["2019", 1, 22]]}, "keyword": ["Technology", "Transhumanism"]}
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/FHK3LN6K",
+    "type": "song",
+    "title": "Ep 14: Paul Wallace & The Stars Beneath Us",
+    "abstract": "Paul Wallace talks about the exhilaration and vertigo of living in expanding cosmos, and how this both humbles us, and helps us rise to the challenge of suffering.",
+    "URL": "https://www.christiantranshumanism.org/podcast/14",
+    "shortTitle": "Ep 14",
+    "language": "en",
+    "author": [
+        {
+            "family": "Redding",
+            "given": "Micah"
+        },
+        {
+            "family": "Wallace",
+            "given": "Paul"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2016",
+                3,
+                16
+            ]
+        ]
+    },
+    "accessed": {
+        "date-parts": [
+            [
+                "2019",
+                1,
+                22
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology",
+        "Transhumanism"
+    ]
+}

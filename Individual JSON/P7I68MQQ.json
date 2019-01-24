@@ -1,1 +1,30 @@
-{"id": "http://zotero.org/users/local/HWAwDThz/items/P7I68MQQ", "type": "book", "title": "Hacked: How a Christian Hackathon Is Shifting Traditional Engagement Models and Creating an Ecosystem for Life-Transforming Te", "publisher": "Primedia eLaunch LLC", "number-of-pages": "117", "source": "Google Books", "abstract": "Scripture reminds us that each and every person has been equipped in a unique way to serve the Kingdom. We are reminded that none of these gifts are more valuable than the other and that through working together not only can we have a strong, vibrant, and far-reaching church, but also a world that moves closer towards wholeness and more like heaven. We are now in, and have been for some time, the Digital Age. With this has come a completely new way to communicate with others, solve complex problems, and advance the Gospel. But it seems the church has failed in many ways to function and thrive in this age. Is it possible to blaze a new path or create a space whereby passionate individuals can grow, create, and work together to help alleviate and eradicate injustice, teach God's unconditional love and build healthier and stronger societies? What are the possibilities?", "ISBN": "978-1-64316-524-0", "note": "Google-Books-ID: LTh2tgEACAAJ", "shortTitle": "Hacked", "language": "en", "author": [{"family": "Hallman", "given": "Shamichael"}], "issued": {"date-parts": [["2017", 11]]}, "keyword": ["Technology"]}
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/P7I68MQQ",
+    "type": "book",
+    "title": "Hacked: How a Christian Hackathon Is Shifting Traditional Engagement Models and Creating an Ecosystem for Life-Transforming Te",
+    "publisher": "Primedia eLaunch LLC",
+    "number-of-pages": "117",
+    "source": "Google Books",
+    "abstract": "Scripture reminds us that each and every person has been equipped in a unique way to serve the Kingdom. We are reminded that none of these gifts are more valuable than the other and that through working together not only can we have a strong, vibrant, and far-reaching church, but also a world that moves closer towards wholeness and more like heaven. We are now in, and have been for some time, the Digital Age. With this has come a completely new way to communicate with others, solve complex problems, and advance the Gospel. But it seems the church has failed in many ways to function and thrive in this age. Is it possible to blaze a new path or create a space whereby passionate individuals can grow, create, and work together to help alleviate and eradicate injustice, teach God's unconditional love and build healthier and stronger societies? What are the possibilities?",
+    "ISBN": "978-1-64316-524-0",
+    "note": "Google-Books-ID: LTh2tgEACAAJ",
+    "shortTitle": "Hacked",
+    "language": "en",
+    "author": [
+        {
+            "family": "Hallman",
+            "given": "Shamichael"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2017",
+                11
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology"
+    ]
+}

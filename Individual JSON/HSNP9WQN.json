@@ -1,1 +1,31 @@
-{"id": "http://zotero.org/users/local/HWAwDThz/items/HSNP9WQN", "type": "book", "title": "Power Failure: Christianity in the Culture of Technology", "publisher": "Baker Books", "number-of-pages": "145", "source": "Google Books", "abstract": "We live in a culture shaped and fueled by technology. Usually we equate access to technology with opportunity and the chance to pursue \"the good life.\" Power Failure raises some crucial, if disconcerting, questions about technology: If technology liberates us, what kind of liberation does it promise? Are we prospering, and by what definition?  Albert Borgmann looks at the relationship between Christianity and technology by examining some of the \"invisible\" dangers of a technology-driven lifestyle. Specifically, he points out how utility and consumption have replaced connection to physical things and meaningful practices in everyday life. Power Failure calls us to redeem and restrain technology through simple Christian practices, including citizen-based decision making, shared meals, and daily Scripture reading.", "ISBN": "978-1-4412-3156-7", "note": "Google-Books-ID: koUL7eggvT8C", "shortTitle": "Power Failure", "language": "en", "author": [{"family": "Borgmann", "given": "Albert"}], "issued": {"date-parts": [["2003", 6, 1]]}, "keyword": ["Technology"]}
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/HSNP9WQN",
+    "type": "book",
+    "title": "Power Failure: Christianity in the Culture of Technology",
+    "publisher": "Baker Books",
+    "number-of-pages": "145",
+    "source": "Google Books",
+    "abstract": "We live in a culture shaped and fueled by technology. Usually we equate access to technology with opportunity and the chance to pursue \"the good life.\" Power Failure raises some crucial, if disconcerting, questions about technology: If technology liberates us, what kind of liberation does it promise? Are we prospering, and by what definition?  Albert Borgmann looks at the relationship between Christianity and technology by examining some of the \"invisible\" dangers of a technology-driven lifestyle. Specifically, he points out how utility and consumption have replaced connection to physical things and meaningful practices in everyday life. Power Failure calls us to redeem and restrain technology through simple Christian practices, including citizen-based decision making, shared meals, and daily Scripture reading.",
+    "ISBN": "978-1-4412-3156-7",
+    "note": "Google-Books-ID: koUL7eggvT8C",
+    "shortTitle": "Power Failure",
+    "language": "en",
+    "author": [
+        {
+            "family": "Borgmann",
+            "given": "Albert"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2003",
+                6,
+                1
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology"
+    ]
+}

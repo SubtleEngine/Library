@@ -1,1 +1,41 @@
-{"id": "http://zotero.org/users/local/HWAwDThz/items/HWQD3AGV", "type": "motion_picture", "title": "What Makes Us Human? A Computer Scientist and a Philosopher Discuss discuss", "abstract": "MIT computer scientist Rosalind Picard and Yale experimental philosopher Joshua Knobe explore what it means to be human at The Veritas Forum at Yale University, 2013. Conversation moderated by Nii Addy, Assistant Professor of Psychiatry and of Cellular and Molecular Physiology at the Yale School of Medicine.", "URL": "http://www.veritas.org/what-makes-us-human-an-mit-computer-scientist-and-a-yale-experimental-philosopher-discuss-discuss-religion-robotics-and-consciousness/", "shortTitle": "What Makes Us Human?", "language": "en-US", "author": [{"family": "Picard", "given": "Rosalind"}, {"family": "Knobe", "given": "Joshua"}], "issued": {"date-parts": [["2013", 11, 27]]}, "accessed": {"date-parts": [["2019", 1, 23]]}, "keyword": ["Technology", "Personhood"]}
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/HWQD3AGV",
+    "type": "motion_picture",
+    "title": "What Makes Us Human? A Computer Scientist and a Philosopher Discuss discuss",
+    "abstract": "MIT computer scientist Rosalind Picard and Yale experimental philosopher Joshua Knobe explore what it means to be human at The Veritas Forum at Yale University, 2013. Conversation moderated by Nii Addy, Assistant Professor of Psychiatry and of Cellular and Molecular Physiology at the Yale School of Medicine.",
+    "URL": "http://www.veritas.org/what-makes-us-human-an-mit-computer-scientist-and-a-yale-experimental-philosopher-discuss-discuss-religion-robotics-and-consciousness/",
+    "shortTitle": "What Makes Us Human?",
+    "language": "en-US",
+    "author": [
+        {
+            "family": "Picard",
+            "given": "Rosalind"
+        },
+        {
+            "family": "Knobe",
+            "given": "Joshua"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2013",
+                11,
+                27
+            ]
+        ]
+    },
+    "accessed": {
+        "date-parts": [
+            [
+                "2019",
+                1,
+                23
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology",
+        "Personhood"
+    ]
+}

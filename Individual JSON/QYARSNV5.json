@@ -1,1 +1,37 @@
-{"id": "http://zotero.org/users/local/HWAwDThz/items/QYARSNV5", "type": "motion_picture", "title": "Are We Merely Machines? An MIT Professor's Look at Humanity, Technology, and God", "abstract": "Are we merely machines? MIT Professor Rosalind Picard looks at technology, human identity, and God at The Veritas Forum at Duke University, 2014.", "URL": "http://www.veritas.org/are-we-merely-machines-an-mit-professors-look-at-humanity-technology-and-god/", "shortTitle": "Are We Merely Machines?", "language": "en-US", "author": [{"family": "Picard", "given": "Rosalind"}], "issued": {"date-parts": [["2014", 3, 16]]}, "accessed": {"date-parts": [["2019", 1, 23]]}, "keyword": ["Technology", "Personhood"]}
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/QYARSNV5",
+    "type": "motion_picture",
+    "title": "Are We Merely Machines? An MIT Professor's Look at Humanity, Technology, and God",
+    "abstract": "Are we merely machines? MIT Professor Rosalind Picard looks at technology, human identity, and God at The Veritas Forum at Duke University, 2014.",
+    "URL": "http://www.veritas.org/are-we-merely-machines-an-mit-professors-look-at-humanity-technology-and-god/",
+    "shortTitle": "Are We Merely Machines?",
+    "language": "en-US",
+    "author": [
+        {
+            "family": "Picard",
+            "given": "Rosalind"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2014",
+                3,
+                16
+            ]
+        ]
+    },
+    "accessed": {
+        "date-parts": [
+            [
+                "2019",
+                1,
+                23
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology",
+        "Personhood"
+    ]
+}

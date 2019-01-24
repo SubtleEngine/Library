@@ -1,1 +1,40 @@
-{"id": "http://zotero.org/users/local/HWAwDThz/items/E7RUZQL9", "type": "article-newspaper", "title": "God in the machine: my strange journey into transhumanism", "container-title": "The Guardian", "section": "Technology", "source": "www.theguardian.com", "abstract": "The long read: After losing her faith, a former evangelical Christian felt adrift in the world. She then found solace in a radical technological philosophy \u2013 but its promises of immortality and spiritual transcendence soon seemed unsettlingly familiar", "URL": "https://www.theguardian.com/technology/2017/apr/18/god-in-the-machine-my-strange-journey-into-transhumanism", "ISSN": "0261-3077", "shortTitle": "God in the machine", "language": "en-GB", "author": [{"family": "O'Gieblyn", "given": "Meghan"}], "issued": {"date-parts": [["2017", 4, 18]]}, "accessed": {"date-parts": [["2019", 1, 22]]}, "keyword": ["Technology"]}
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/E7RUZQL9",
+    "type": "article-newspaper",
+    "title": "God in the machine: my strange journey into transhumanism",
+    "container-title": "The Guardian",
+    "section": "Technology",
+    "source": "www.theguardian.com",
+    "abstract": "The long read: After losing her faith, a former evangelical Christian felt adrift in the world. She then found solace in a radical technological philosophy \u2013 but its promises of immortality and spiritual transcendence soon seemed unsettlingly familiar",
+    "URL": "https://www.theguardian.com/technology/2017/apr/18/god-in-the-machine-my-strange-journey-into-transhumanism",
+    "ISSN": "0261-3077",
+    "shortTitle": "God in the machine",
+    "language": "en-GB",
+    "author": [
+        {
+            "family": "O'Gieblyn",
+            "given": "Meghan"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2017",
+                4,
+                18
+            ]
+        ]
+    },
+    "accessed": {
+        "date-parts": [
+            [
+                "2019",
+                1,
+                22
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology"
+    ]
+}

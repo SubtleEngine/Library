@@ -1,1 +1,41 @@
-{"id": "http://zotero.org/users/local/HWAwDThz/items/BMZLHZHX", "type": "article-journal", "title": "Can We Genetically Engineer Virtue and Deification?", "container-title": "Theology and Science", "page": "300-307", "volume": "16", "issue": "3", "source": "Taylor and Francis+NEJM", "abstract": "In this article we ask: could we speed up the attainment of religious goals such as virtuous living or even deification through genetic engineering? After reviewing current scientific knowledge gained from genetic engineering, it is difficult to answer affirmatively. Because virtuous living is complex and difficult to define, it makes searching for relevant genes difficult. To date, such genes do not appear in the geneticist\u2019s inventory. An additional unknown is the role of free will. Even more important, theologically, is the role of God in leading to our sanctification. This present negative conclusion, however, does not preclude possible future advances in the science of virtue.", "URL": "https://doi.org/10.1080/14746700.2018.1488477", "DOI": "10.1080/14746700.2018.1488477", "ISSN": "1474-6700", "author": [{"family": "Woloschak", "given": "Gayle E."}], "issued": {"date-parts": [["2018", 7, 3]]}, "accessed": {"date-parts": [["2019", 1, 15]]}, "keyword": ["Technology"]}
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/BMZLHZHX",
+    "type": "article-journal",
+    "title": "Can We Genetically Engineer Virtue and Deification?",
+    "container-title": "Theology and Science",
+    "page": "300-307",
+    "volume": "16",
+    "issue": "3",
+    "source": "Taylor and Francis+NEJM",
+    "abstract": "In this article we ask: could we speed up the attainment of religious goals such as virtuous living or even deification through genetic engineering? After reviewing current scientific knowledge gained from genetic engineering, it is difficult to answer affirmatively. Because virtuous living is complex and difficult to define, it makes searching for relevant genes difficult. To date, such genes do not appear in the geneticist\u2019s inventory. An additional unknown is the role of free will. Even more important, theologically, is the role of God in leading to our sanctification. This present negative conclusion, however, does not preclude possible future advances in the science of virtue.",
+    "URL": "https://doi.org/10.1080/14746700.2018.1488477",
+    "DOI": "10.1080/14746700.2018.1488477",
+    "ISSN": "1474-6700",
+    "author": [
+        {
+            "family": "Woloschak",
+            "given": "Gayle E."
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2018",
+                7,
+                3
+            ]
+        ]
+    },
+    "accessed": {
+        "date-parts": [
+            [
+                "2019",
+                1,
+                15
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology"
+    ]
+}

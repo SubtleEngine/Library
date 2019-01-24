@@ -1,1 +1,34 @@
-{"id": "http://zotero.org/users/local/HWAwDThz/items/UW6467RU", "type": "motion_picture", "title": "Communication, God and Machines", "abstract": "Lecture given by Prof. Richard Harper on the Robots, Reality and Religion Short Course", "URL": "https://www.sms.cam.ac.uk/media/2360416", "author": [{"family": "Harper", "given": "Richard"}], "issued": {"date-parts": [["2016", 9, 18]]}, "accessed": {"date-parts": [["2019", 1, 5]]}, "keyword": ["Technology"]}
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/UW6467RU",
+    "type": "motion_picture",
+    "title": "Communication, God and Machines",
+    "abstract": "Lecture given by Prof. Richard Harper on the Robots, Reality and Religion Short Course",
+    "URL": "https://www.sms.cam.ac.uk/media/2360416",
+    "author": [
+        {
+            "family": "Harper",
+            "given": "Richard"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2016",
+                9,
+                18
+            ]
+        ]
+    },
+    "accessed": {
+        "date-parts": [
+            [
+                "2019",
+                1,
+                5
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology"
+    ]
+}

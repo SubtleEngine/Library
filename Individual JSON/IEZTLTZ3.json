@@ -1,1 +1,41 @@
-{"id": "http://zotero.org/users/local/HWAwDThz/items/IEZTLTZ3", "type": "article-journal", "title": "Genetically Engineered Traits versus Virtuous Living", "container-title": "Theology and Science", "page": "319-329", "volume": "16", "issue": "3", "source": "Taylor and Francis+NEJM", "abstract": "It is fruitless to attempt to genetically engineer virtuous living. Prenatal genome modification could, in principle, establish desired traits and predispose us to certain behaviors. But, traits given at birth are not the same thing as a virtuous character that can be acquired only by self-discipline. The ethicist further fears that free market eugenics\u2014the sale of gene modification\u2014may become one more expression of the social sin our culture inherits.", "URL": "https://doi.org/10.1080/14746700.2018.1488522", "DOI": "10.1080/14746700.2018.1488522", "ISSN": "1474-6700", "author": [{"family": "Fullam", "given": "Lisa"}], "issued": {"date-parts": [["2018", 7, 3]]}, "accessed": {"date-parts": [["2019", 1, 15]]}, "keyword": ["Technology"]}
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/IEZTLTZ3",
+    "type": "article-journal",
+    "title": "Genetically Engineered Traits versus Virtuous Living",
+    "container-title": "Theology and Science",
+    "page": "319-329",
+    "volume": "16",
+    "issue": "3",
+    "source": "Taylor and Francis+NEJM",
+    "abstract": "It is fruitless to attempt to genetically engineer virtuous living. Prenatal genome modification could, in principle, establish desired traits and predispose us to certain behaviors. But, traits given at birth are not the same thing as a virtuous character that can be acquired only by self-discipline. The ethicist further fears that free market eugenics\u2014the sale of gene modification\u2014may become one more expression of the social sin our culture inherits.",
+    "URL": "https://doi.org/10.1080/14746700.2018.1488522",
+    "DOI": "10.1080/14746700.2018.1488522",
+    "ISSN": "1474-6700",
+    "author": [
+        {
+            "family": "Fullam",
+            "given": "Lisa"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2018",
+                7,
+                3
+            ]
+        ]
+    },
+    "accessed": {
+        "date-parts": [
+            [
+                "2019",
+                1,
+                15
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology"
+    ]
+}

@@ -1,1 +1,30 @@
-{"id": "http://zotero.org/users/local/HWAwDThz/items/9ELCAKJI", "type": "book", "title": "From the Garden to the City: The Redeeming and Corrupting Power of Technology", "publisher": "Kregel Publications", "number-of-pages": "194", "source": "Google Books", "abstract": "Where does technology belong in the biblical story of redemption? Believers and unbelievers alike are saturated with technology, yet most give it little if any thought. Consumers buy and upgrade as fast as they can, largely unaware of technology's subtle yet powerful influence. In a world where technology changes almost daily, many are left to wonder: Should Christians embrace all that is happening? Are there some technologies that we need to avoid? Does the Bible give us any guidance on how to use digital tools and social media? An experienced Web developer and writer on technology and culture, John Dyer answers these questions and more by walking through the story of the Bible and introducing key ideas about how technology and culture interact. Dyer first analyzes the biblical, theological, and philosophical foundations of technology and then studies several examples that show how technology can influence the spiritual life. For youth pastors, college-aged readers, and anyone interested in understanding how technology fits with faith, \"From the Garden to the City\" fills a gap for biblically-informed literature in a technological world. \"The burgeoning field of internet possibilities has very little written from a Christian perspective, much less from a gifted artist like John Dyer.\"--J. Scott Horrell, Professor of Theological Studies, Dallas Theological Seminary \"Of all the voices speaking and writing on the subject today, John Dyer's is among the voices I most respect. [His] unique combination of technological and theological passion, insight, and credentials make him an author and thought leader that people of faith need to hear from.\"--Scott McClellan, editor, \"Collide Magazine\"", "ISBN": "978-0-8254-8930-3", "shortTitle": "From the Garden to the City", "language": "en", "author": [{"family": "Dyer", "given": "John"}], "issued": {"date-parts": [["2011", 7, 13]]}, "keyword": ["Technology"]}
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/9ELCAKJI",
+    "type": "book",
+    "title": "From the Garden to the City: The Redeeming and Corrupting Power of Technology",
+    "publisher": "Kregel Publications",
+    "number-of-pages": "194",
+    "source": "Google Books",
+    "abstract": "Where does technology belong in the biblical story of redemption? Believers and unbelievers alike are saturated with technology, yet most give it little if any thought. Consumers buy and upgrade as fast as they can, largely unaware of technology's subtle yet powerful influence. In a world where technology changes almost daily, many are left to wonder: Should Christians embrace all that is happening? Are there some technologies that we need to avoid? Does the Bible give us any guidance on how to use digital tools and social media? An experienced Web developer and writer on technology and culture, John Dyer answers these questions and more by walking through the story of the Bible and introducing key ideas about how technology and culture interact. Dyer first analyzes the biblical, theological, and philosophical foundations of technology and then studies several examples that show how technology can influence the spiritual life. For youth pastors, college-aged readers, and anyone interested in understanding how technology fits with faith, \"From the Garden to the City\" fills a gap for biblically-informed literature in a technological world. \"The burgeoning field of internet possibilities has very little written from a Christian perspective, much less from a gifted artist like John Dyer.\"--J. Scott Horrell, Professor of Theological Studies, Dallas Theological Seminary \"Of all the voices speaking and writing on the subject today, John Dyer's is among the voices I most respect. [His] unique combination of technological and theological passion, insight, and credentials make him an author and thought leader that people of faith need to hear from.\"--Scott McClellan, editor, \"Collide Magazine\"",
+    "ISBN": "978-0-8254-8930-3",
+    "shortTitle": "From the Garden to the City",
+    "language": "en",
+    "author": [
+        {
+            "family": "Dyer",
+            "given": "John"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2011",
+                7,
+                13
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology"
+    ]
+}

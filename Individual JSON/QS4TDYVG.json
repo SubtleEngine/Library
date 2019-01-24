@@ -1,1 +1,41 @@
-{"id": "http://zotero.org/users/local/HWAwDThz/items/QS4TDYVG", "type": "song", "title": "Ep 19: Frank Tipler & The End of the Universe", "abstract": "What does physics say about the ultimate future? Professor Tipler explains the Omega Point Theory, how life can exist all the way to the end of time, and what Christianity has to say about all of this.", "URL": "https://www.christiantranshumanism.org/podcast/19", "shortTitle": "Ep 19", "language": "en", "author": [{"family": "Redding", "given": "Micah"}, {"family": "Tipler", "given": "Frank"}], "issued": {"date-parts": [["2016", 6, 21]]}, "accessed": {"date-parts": [["2019", 1, 22]]}, "keyword": ["Technology", "Transhumanism"]}
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/QS4TDYVG",
+    "type": "song",
+    "title": "Ep 19: Frank Tipler & The End of the Universe",
+    "abstract": "What does physics say about the ultimate future? Professor Tipler explains the Omega Point Theory, how life can exist all the way to the end of time, and what Christianity has to say about all of this.",
+    "URL": "https://www.christiantranshumanism.org/podcast/19",
+    "shortTitle": "Ep 19",
+    "language": "en",
+    "author": [
+        {
+            "family": "Redding",
+            "given": "Micah"
+        },
+        {
+            "family": "Tipler",
+            "given": "Frank"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2016",
+                6,
+                21
+            ]
+        ]
+    },
+    "accessed": {
+        "date-parts": [
+            [
+                "2019",
+                1,
+                22
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology",
+        "Transhumanism"
+    ]
+}

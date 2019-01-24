@@ -1,1 +1,30 @@
-{"id": "http://zotero.org/users/local/HWAwDThz/items/BTBJDQVD", "type": "book", "title": "Technology and Empire", "publisher": "House of Anansi Press Incorporated", "number-of-pages": "145", "source": "Google Books", "abstract": "George Grant -- philosopher, conservative, Canadian nationalist -- was one of Canada's most significant thinkers and the author of Lament for a Nation. In Technology and Empire, Grant reflects on the extent to which technology has shaped our modern culture.", "ISBN": "978-0-88784-876-6", "note": "Google-Books-ID: fXTVi3E55zoC", "language": "en", "author": [{"family": "Grant", "given": "George"}], "issued": {"date-parts": [["1991", 6, 1]]}, "keyword": ["Technology"]}
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/BTBJDQVD",
+    "type": "book",
+    "title": "Technology and Empire",
+    "publisher": "House of Anansi Press Incorporated",
+    "number-of-pages": "145",
+    "source": "Google Books",
+    "abstract": "George Grant -- philosopher, conservative, Canadian nationalist -- was one of Canada's most significant thinkers and the author of Lament for a Nation. In Technology and Empire, Grant reflects on the extent to which technology has shaped our modern culture.",
+    "ISBN": "978-0-88784-876-6",
+    "note": "Google-Books-ID: fXTVi3E55zoC",
+    "language": "en",
+    "author": [
+        {
+            "family": "Grant",
+            "given": "George"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "1991",
+                6,
+                1
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology"
+    ]
+}

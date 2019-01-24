@@ -1,1 +1,35 @@
-{"id": "http://zotero.org/users/local/HWAwDThz/items/34XC8A59", "type": "motion_picture", "title": "Social Implications and the Future of Work", "abstract": "Talk given by Prof. Nigel Cameron as part of short course 36", "URL": "https://www.sms.cam.ac.uk/media/2334042", "author": [{"family": "Cameron", "given": "Nigel"}], "issued": {"date-parts": [["2016", 9, 18]]}, "accessed": {"date-parts": [["2019", 1, 5]]}, "keyword": ["Technology", "Work"]}
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/34XC8A59",
+    "type": "motion_picture",
+    "title": "Social Implications and the Future of Work",
+    "abstract": "Talk given by Prof. Nigel Cameron as part of short course 36",
+    "URL": "https://www.sms.cam.ac.uk/media/2334042",
+    "author": [
+        {
+            "family": "Cameron",
+            "given": "Nigel"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2016",
+                9,
+                18
+            ]
+        ]
+    },
+    "accessed": {
+        "date-parts": [
+            [
+                "2019",
+                1,
+                5
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology",
+        "Work"
+    ]
+}

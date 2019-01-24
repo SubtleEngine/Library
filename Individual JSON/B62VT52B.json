@@ -1,1 +1,41 @@
-{"id": "http://zotero.org/users/local/HWAwDThz/items/B62VT52B", "type": "article-journal", "title": "The Disappearing Human: Gnostic Dreams in a Transhumanist World", "container-title": "Religions", "page": "81", "volume": "8", "issue": "5", "source": "www.mdpi.com", "abstract": "Transhumanism is dedicated to freeing humankind from the limitations of biological life, creating new bodies that will carry us into the future. In seeking freedom from the constraints of nature, it resembles ancient Gnosticism, but complicates the question of what the human being is. In contrast to the perspective that we are our brains, I argue that human consciousness and subjectivity originate from complex interactions between the body and the surrounding environment. These qualities emerge from a distinct set of structural couplings embodied within multiple organ systems and the multiplicity of connections within the brain. These connections take on different forms, including structural, chemical, and electrical manifestations within the totality of the human body. This embodiment suggests that human consciousness, and the intricate levels of experience that accompany it, cannot be replicated in non-organic forms such as computers or synaptic implants without a significant loss to human identity. The Gnostic desire to escape our embodiment found in transhumanism carries the danger of dissolving the human being.", "URL": "https://www.mdpi.com/2077-1444/8/5/81", "DOI": "10.3390/rel8050081", "shortTitle": "The Disappearing Human", "language": "en", "author": [{"family": "Pugh", "given": "Jeffrey C."}], "issued": {"date-parts": [["2017", 5]]}, "accessed": {"date-parts": [["2019", 1, 15]]}, "keyword": ["Technology"]}
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/B62VT52B",
+    "type": "article-journal",
+    "title": "The Disappearing Human: Gnostic Dreams in a Transhumanist World",
+    "container-title": "Religions",
+    "page": "81",
+    "volume": "8",
+    "issue": "5",
+    "source": "www.mdpi.com",
+    "abstract": "Transhumanism is dedicated to freeing humankind from the limitations of biological life, creating new bodies that will carry us into the future. In seeking freedom from the constraints of nature, it resembles ancient Gnosticism, but complicates the question of what the human being is. In contrast to the perspective that we are our brains, I argue that human consciousness and subjectivity originate from complex interactions between the body and the surrounding environment. These qualities emerge from a distinct set of structural couplings embodied within multiple organ systems and the multiplicity of connections within the brain. These connections take on different forms, including structural, chemical, and electrical manifestations within the totality of the human body. This embodiment suggests that human consciousness, and the intricate levels of experience that accompany it, cannot be replicated in non-organic forms such as computers or synaptic implants without a significant loss to human identity. The Gnostic desire to escape our embodiment found in transhumanism carries the danger of dissolving the human being.",
+    "URL": "https://www.mdpi.com/2077-1444/8/5/81",
+    "DOI": "10.3390/rel8050081",
+    "shortTitle": "The Disappearing Human",
+    "language": "en",
+    "author": [
+        {
+            "family": "Pugh",
+            "given": "Jeffrey C."
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2017",
+                5
+            ]
+        ]
+    },
+    "accessed": {
+        "date-parts": [
+            [
+                "2019",
+                1,
+                15
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology"
+    ]
+}

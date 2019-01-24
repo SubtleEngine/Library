@@ -1,1 +1,40 @@
-{"id": "http://zotero.org/users/local/HWAwDThz/items/448X66SC", "type": "article-journal", "title": "Moral Enhancement and Deification Through Technology?", "container-title": "Theology and Science", "page": "243-246", "volume": "16", "issue": "3", "source": "Taylor and Francis+NEJM", "URL": "https://doi.org/10.1080/14746700.2018.1488465", "DOI": "10.1080/14746700.2018.1488465", "ISSN": "1474-6700", "author": [{"family": "Weissenbacher", "given": "Alan"}], "issued": {"date-parts": [["2018", 7, 3]]}, "accessed": {"date-parts": [["2019", 1, 15]]}, "keyword": ["Technology"]}
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/448X66SC",
+    "type": "article-journal",
+    "title": "Moral Enhancement and Deification Through Technology?",
+    "container-title": "Theology and Science",
+    "page": "243-246",
+    "volume": "16",
+    "issue": "3",
+    "source": "Taylor and Francis+NEJM",
+    "URL": "https://doi.org/10.1080/14746700.2018.1488465",
+    "DOI": "10.1080/14746700.2018.1488465",
+    "ISSN": "1474-6700",
+    "author": [
+        {
+            "family": "Weissenbacher",
+            "given": "Alan"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2018",
+                7,
+                3
+            ]
+        ]
+    },
+    "accessed": {
+        "date-parts": [
+            [
+                "2019",
+                1,
+                15
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology"
+    ]
+}

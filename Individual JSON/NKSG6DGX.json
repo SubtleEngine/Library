@@ -1,1 +1,41 @@
-{"id": "http://zotero.org/users/local/HWAwDThz/items/NKSG6DGX", "type": "song", "title": "Ep 25: Katharine Hayhoe, Christians & Climate Change", "abstract": "Katharine Hayhoe shares her unexpected journey to becoming an evangelical Christian climate scientist, discusses evidence for climate change, and explains why working to solve our climate problems doesn't mean \"Big Government!\". We explore optimistic ways to address global warming, and the incredible economic and health benefits of clean energy.", "URL": "https://www.christiantranshumanism.org/podcast/25", "shortTitle": "Ep 25", "language": "en", "author": [{"family": "Redding", "given": "Micah"}, {"family": "Hayhoe", "given": "Katherine"}], "issued": {"date-parts": [["2016", 12, 5]]}, "accessed": {"date-parts": [["2019", 1, 22]]}, "keyword": ["Technology", "Transhumanism"]}
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/NKSG6DGX",
+    "type": "song",
+    "title": "Ep 25: Katharine Hayhoe, Christians & Climate Change",
+    "abstract": "Katharine Hayhoe shares her unexpected journey to becoming an evangelical Christian climate scientist, discusses evidence for climate change, and explains why working to solve our climate problems doesn't mean \"Big Government!\". We explore optimistic ways to address global warming, and the incredible economic and health benefits of clean energy.",
+    "URL": "https://www.christiantranshumanism.org/podcast/25",
+    "shortTitle": "Ep 25",
+    "language": "en",
+    "author": [
+        {
+            "family": "Redding",
+            "given": "Micah"
+        },
+        {
+            "family": "Hayhoe",
+            "given": "Katherine"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2016",
+                12,
+                5
+            ]
+        ]
+    },
+    "accessed": {
+        "date-parts": [
+            [
+                "2019",
+                1,
+                22
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology",
+        "Transhumanism"
+    ]
+}

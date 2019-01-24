@@ -1,1 +1,41 @@
-{"id": "http://zotero.org/users/local/HWAwDThz/items/MGH383TN", "type": "song", "title": "Ep 13: Cloning Jesus with Christian Piatt", "abstract": "What if someone cloned Jesus, to kickstart the second coming? What if fringe religious groups USED science for a change? Christian Piatt explains his religious sci-fi thriller, and tackles thorny questions in science, faith, and progressive spirituality.", "URL": "https://www.christiantranshumanism.org/podcast/13", "shortTitle": "Ep 13", "language": "en", "author": [{"family": "Redding", "given": "Micah"}, {"family": "Piatt", "given": "Christian"}], "issued": {"date-parts": [["2016", 2, 29]]}, "accessed": {"date-parts": [["2019", 1, 22]]}, "keyword": ["Technology", "Transhumanism"]}
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/MGH383TN",
+    "type": "song",
+    "title": "Ep 13: Cloning Jesus with Christian Piatt",
+    "abstract": "What if someone cloned Jesus, to kickstart the second coming? What if fringe religious groups USED science for a change? Christian Piatt explains his religious sci-fi thriller, and tackles thorny questions in science, faith, and progressive spirituality.",
+    "URL": "https://www.christiantranshumanism.org/podcast/13",
+    "shortTitle": "Ep 13",
+    "language": "en",
+    "author": [
+        {
+            "family": "Redding",
+            "given": "Micah"
+        },
+        {
+            "family": "Piatt",
+            "given": "Christian"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2016",
+                2,
+                29
+            ]
+        ]
+    },
+    "accessed": {
+        "date-parts": [
+            [
+                "2019",
+                1,
+                22
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology",
+        "Transhumanism"
+    ]
+}

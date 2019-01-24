@@ -1,1 +1,29 @@
-{"id": "http://zotero.org/users/local/HWAwDThz/items/SETR4ZSS", "type": "book", "title": "Ethics in an Age of Technology", "publisher": "HarperSanFrancisco", "number-of-pages": "312", "source": "Google Books", "abstract": "\"In examining the conflicting ethics and assumptions that lead to divergent views of technology, Barbour analyzes three social values: justice, participatory freedom, and economic development, and defends such environmental principles as resource sustainability, environmental protection, and respect for all forms of life. He presents case studies of agricultural technology, energy policy, and the use of computers.\" \"Looking to the future, he describes the effects of global climate change, genetic engineering, and nuclear war and cautions that we must control our new powers over life and death more effectively. Finally, he concludes by focusing on appropriate technologies, individual life-styles, and sources of change: education, political action, response to crisis, and alternative visions of the good life.\"--BOOK JACKET.", "ISBN": "978-0-06-060934-4", "note": "Google-Books-ID: CqdsQgAACAAJ", "language": "en", "author": [{"family": "Barbour", "given": "Ian G."}], "issued": {"date-parts": [["1993"]]}, "keyword": ["Ethics", "Technology"]}
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/SETR4ZSS",
+    "type": "book",
+    "title": "Ethics in an Age of Technology",
+    "publisher": "HarperSanFrancisco",
+    "number-of-pages": "312",
+    "source": "Google Books",
+    "abstract": "\"In examining the conflicting ethics and assumptions that lead to divergent views of technology, Barbour analyzes three social values: justice, participatory freedom, and economic development, and defends such environmental principles as resource sustainability, environmental protection, and respect for all forms of life. He presents case studies of agricultural technology, energy policy, and the use of computers.\" \"Looking to the future, he describes the effects of global climate change, genetic engineering, and nuclear war and cautions that we must control our new powers over life and death more effectively. Finally, he concludes by focusing on appropriate technologies, individual life-styles, and sources of change: education, political action, response to crisis, and alternative visions of the good life.\"--BOOK JACKET.",
+    "ISBN": "978-0-06-060934-4",
+    "note": "Google-Books-ID: CqdsQgAACAAJ",
+    "language": "en",
+    "author": [
+        {
+            "family": "Barbour",
+            "given": "Ian G."
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "1993"
+            ]
+        ]
+    },
+    "keyword": [
+        "Ethics",
+        "Technology"
+    ]
+}

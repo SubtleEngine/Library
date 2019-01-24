@@ -1,1 +1,40 @@
-{"id": "http://zotero.org/users/local/HWAwDThz/items/NRS2JFRJ", "type": "song", "title": "Ep 37: Robin Hanson & The Elephant in the Brain", "abstract": "Robin Hanson explores a future of robotic human uploads, helps us worry about The Great Filter, gives us strategies for living in a Simulation, and casually points out the Elephant in the Brain.", "URL": "https://www.christiantranshumanism.org/podcast/37", "shortTitle": "Ep 37", "language": "en", "author": [{"family": "Redding", "given": "Micah"}, {"family": "Hanson", "given": "Robin"}], "issued": {"date-parts": [["2018", 5, 16]]}, "accessed": {"date-parts": [["2019", 1, 22]]}, "keyword": ["Technology"]}
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/NRS2JFRJ",
+    "type": "song",
+    "title": "Ep 37: Robin Hanson & The Elephant in the Brain",
+    "abstract": "Robin Hanson explores a future of robotic human uploads, helps us worry about The Great Filter, gives us strategies for living in a Simulation, and casually points out the Elephant in the Brain.",
+    "URL": "https://www.christiantranshumanism.org/podcast/37",
+    "shortTitle": "Ep 37",
+    "language": "en",
+    "author": [
+        {
+            "family": "Redding",
+            "given": "Micah"
+        },
+        {
+            "family": "Hanson",
+            "given": "Robin"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2018",
+                5,
+                16
+            ]
+        ]
+    },
+    "accessed": {
+        "date-parts": [
+            [
+                "2019",
+                1,
+                22
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology"
+    ]
+}

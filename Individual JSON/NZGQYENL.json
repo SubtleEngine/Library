@@ -1,1 +1,45 @@
-{"id": "http://zotero.org/users/local/HWAwDThz/items/NZGQYENL", "type": "motion_picture", "title": "Science: Are We Machines?", "abstract": "Can we manufacture consciousness? Are we nothing more than gene replication machines? Prof. Andrew Briggs chairs a discussion with Prof. Lionel Tarassenko and Prof. Alister McGrath on the nature of our very being.", "URL": "http://www.veritas.org/science-are-we-machines/", "shortTitle": "Science", "language": "en-US", "author": [{"family": "Mcgrath", "given": "Alister"}, {"family": "Tarassenko", "given": "Lionel"}, {"family": "Briggs", "given": "Andrew"}], "issued": {"date-parts": [["2008", 1, 26]]}, "accessed": {"date-parts": [["2019", 1, 23]]}, "keyword": ["Technology", "Personhood"]}
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/NZGQYENL",
+    "type": "motion_picture",
+    "title": "Science: Are We Machines?",
+    "abstract": "Can we manufacture consciousness? Are we nothing more than gene replication machines? Prof. Andrew Briggs chairs a discussion with Prof. Lionel Tarassenko and Prof. Alister McGrath on the nature of our very being.",
+    "URL": "http://www.veritas.org/science-are-we-machines/",
+    "shortTitle": "Science",
+    "language": "en-US",
+    "author": [
+        {
+            "family": "Mcgrath",
+            "given": "Alister"
+        },
+        {
+            "family": "Tarassenko",
+            "given": "Lionel"
+        },
+        {
+            "family": "Briggs",
+            "given": "Andrew"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2008",
+                1,
+                26
+            ]
+        ]
+    },
+    "accessed": {
+        "date-parts": [
+            [
+                "2019",
+                1,
+                23
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology",
+        "Personhood"
+    ]
+}

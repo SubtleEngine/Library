@@ -1,1 +1,41 @@
-{"id": "http://zotero.org/users/local/HWAwDThz/items/DB2ARCH2", "type": "song", "title": "Ep 6: Evil Capitalists!", "abstract": "Micah &amp; Amy discuss whether transhumanism is just an apologetic for capitalism, what will drive the economies of the future, and how Christians need to get out and play more\u2026even if it means finding yourself mixed up in a plot to overthrow Hitler.", "URL": "https://www.christiantranshumanism.org/podcast/6", "shortTitle": "Ep 6", "language": "en", "author": [{"family": "Redding", "given": "Micah"}, {"family": "Gaskin", "given": "Amy"}], "issued": {"date-parts": [["2015", 11, 2]]}, "accessed": {"date-parts": [["2019", 1, 22]]}, "keyword": ["Technology", "Transhumanism"]}
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/DB2ARCH2",
+    "type": "song",
+    "title": "Ep 6: Evil Capitalists!",
+    "abstract": "Micah &amp; Amy discuss whether transhumanism is just an apologetic for capitalism, what will drive the economies of the future, and how Christians need to get out and play more\u2026even if it means finding yourself mixed up in a plot to overthrow Hitler.",
+    "URL": "https://www.christiantranshumanism.org/podcast/6",
+    "shortTitle": "Ep 6",
+    "language": "en",
+    "author": [
+        {
+            "family": "Redding",
+            "given": "Micah"
+        },
+        {
+            "family": "Gaskin",
+            "given": "Amy"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2015",
+                11,
+                2
+            ]
+        ]
+    },
+    "accessed": {
+        "date-parts": [
+            [
+                "2019",
+                1,
+                22
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology",
+        "Transhumanism"
+    ]
+}

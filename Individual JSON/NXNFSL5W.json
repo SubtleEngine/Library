@@ -1,1 +1,30 @@
-{"id": "http://zotero.org/users/local/HWAwDThz/items/NXNFSL5W", "type": "book", "title": "Shaping a Digital World: Faith, Culture and Computer Technology", "publisher": "InterVarsity Press", "number-of-pages": "145", "source": "Google Books", "abstract": "Digital technology has become a ubiquitous feature of modern life. Our increasingly fast-paced world seems more and more remote from the world narrated in Scripture. But despite its pervasiveness, there remains a dearth of theological reflection about computer technology and what it means to live as a faithful Christian in a digitally-saturated society. In this thoughtful and timely book, Derek Schuurman provides a brief theology of technology, rooted in the Reformed tradition and oriented around the grand themes of creation, fall, redemption and new creation. He combines a concise, accessible style with penetrating cultural and theological analysis. Building on the work of Jacques Ellul, Marshall McLuhan and Neil Postman, and drawing from a wide range of Reformed thinkers, Schuurman situates computer technology within the big picture of the biblical story. Technology is not neutral, but neither is there an exclusively &quot;Christian&quot; form of technological production and use. Instead, Schuurman guides us to see the digital world as part of God\u2019s good creation, fallen yet redeemable according to the law of God. Responsibly used, technology can become an integral part of God\u2019s shalom for the earth.", "ISBN": "978-0-8308-2713-8", "shortTitle": "Shaping a Digital World", "language": "en", "author": [{"family": "Schuurman", "given": "Derek C."}], "issued": {"date-parts": [["2013", 5, 2]]}, "keyword": ["Technology"]}
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/NXNFSL5W",
+    "type": "book",
+    "title": "Shaping a Digital World: Faith, Culture and Computer Technology",
+    "publisher": "InterVarsity Press",
+    "number-of-pages": "145",
+    "source": "Google Books",
+    "abstract": "Digital technology has become a ubiquitous feature of modern life. Our increasingly fast-paced world seems more and more remote from the world narrated in Scripture. But despite its pervasiveness, there remains a dearth of theological reflection about computer technology and what it means to live as a faithful Christian in a digitally-saturated society. In this thoughtful and timely book, Derek Schuurman provides a brief theology of technology, rooted in the Reformed tradition and oriented around the grand themes of creation, fall, redemption and new creation. He combines a concise, accessible style with penetrating cultural and theological analysis. Building on the work of Jacques Ellul, Marshall McLuhan and Neil Postman, and drawing from a wide range of Reformed thinkers, Schuurman situates computer technology within the big picture of the biblical story. Technology is not neutral, but neither is there an exclusively &quot;Christian&quot; form of technological production and use. Instead, Schuurman guides us to see the digital world as part of God\u2019s good creation, fallen yet redeemable according to the law of God. Responsibly used, technology can become an integral part of God\u2019s shalom for the earth.",
+    "ISBN": "978-0-8308-2713-8",
+    "shortTitle": "Shaping a Digital World",
+    "language": "en",
+    "author": [
+        {
+            "family": "Schuurman",
+            "given": "Derek C."
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2013",
+                5,
+                2
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology"
+    ]
+}
