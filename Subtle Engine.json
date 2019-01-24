@@ -255,6 +255,12 @@
 		"note": "Google-Books-ID: LTh2tgEACAAJ",
 		"shortTitle": "Hacked",
 		"language": "en",
+		"author": [
+			{
+				"family": "Hallman",
+				"given": "Shamichael"
+			}
+		],
 		"issued": {
 			"date-parts": [
 				[
@@ -4584,6 +4590,15 @@
 				"given": "Christopher"
 			}
 		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					5,
+					31
+				]
+			]
+		},
 		"accessed": {
 			"date-parts": [
 				[
@@ -4837,6 +4852,15 @@
 		"abstract": "Why do people chase immortality? We those who believe science is close to beating death",
 		"URL": "https://www.bbc.co.uk/programmes/w3cswrjy",
 		"language": "en-GB",
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					5,
+					21
+				]
+			]
+		},
 		"accessed": {
 			"date-parts": [
 				[
@@ -5773,9 +5797,8 @@
 	},
 	{
 		"id": "http://zotero.org/users/local/HWAwDThz/items/NPC5PMBB",
-		"type": "webpage",
+		"type": "motion_picture",
 		"title": "Why believe something you can't prove?",
-		"container-title": "The Veritas Forum",
 		"abstract": "NYT columnist, Ross Douthat, and MIT professor, Rosalind Picard, discuss the perception of faith in computer science and why it is reasonable to believe things that we can’t prove.",
 		"URL": "http://www.veritas.org/why-believe-something-you-cant-prove/",
 		"language": "en-US",
