@@ -13,7 +13,7 @@ for item in data:
     item_extra = {}
     item_extra["keyword"] = [t.strip() for t in tags[key].split(";")]
     if "note" in item:
-        item_extra["cover"] = cover_url.format(item["note"].split()[-1])
+        item_extra["cover-image-url"] = cover_url.format(item["note"].split()[-1])
     tagged_item = dict(**item, **item_extra)
     with open("Individual JSON/{}.json".format(key), "w") as f:
         json.dump(tagged_item, f, indent=4)
