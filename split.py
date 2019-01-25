@@ -1,7 +1,7 @@
 import json
 import pandas as pd
 
-cover_url = "https://books.google.co.uk/books/content?id={}&printsec=frontcover&img=5&zoom=2"
+cover_url = "https://books.google.co.uk/books/content?id={}&printsec=frontcover&img=1&zoom=2"
 
 data = json.load(open("Subtle Engine.json"))
 tags = pd.read_csv("Subtle Engine.csv", index_col="Key")["Manual Tags"].to_dict()
