@@ -1,0 +1,33 @@
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/CXNVMKD5",
+    "type": "motion_picture",
+    "title": "Change the World With Software Engineering",
+    "URL": "http://faithleads.tech",
+    "author": [
+        {
+            "family": "Taylor",
+            "given": "Nate"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2018",
+                11,
+                9
+            ]
+        ]
+    },
+    "accessed": {
+        "date-parts": [
+            [
+                "2019",
+                1,
+                25
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology"
+    ]
+}

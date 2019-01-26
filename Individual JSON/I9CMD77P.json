@@ -1,0 +1,33 @@
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/I9CMD77P",
+    "type": "motion_picture",
+    "title": "Our Technological Imperative",
+    "URL": "http://faithleads.tech",
+    "author": [
+        {
+            "family": "Olmstead",
+            "given": "Stephen"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2018",
+                11,
+                9
+            ]
+        ]
+    },
+    "accessed": {
+        "date-parts": [
+            [
+                "2019",
+                1,
+                25
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology"
+    ]
+}

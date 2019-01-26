@@ -1,0 +1,45 @@
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/NKDDGPB4",
+    "type": "motion_picture",
+    "title": "Panel - Theology + Technology",
+    "URL": "http://faithleads.tech",
+    "author": [
+        {
+            "family": "Scott",
+            "given": "David"
+        },
+        {
+            "family": "McKee",
+            "given": "Matt"
+        },
+        {
+            "family": "Moyer",
+            "given": "Brian"
+        },
+        {
+            "family": "Jones",
+            "given": "Joshua"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2018",
+                11,
+                9
+            ]
+        ]
+    },
+    "accessed": {
+        "date-parts": [
+            [
+                "2019",
+                1,
+                25
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/TAVEJYJP",
+    "type": "motion_picture",
+    "title": "Mission Driven Startup",
+    "URL": "http://faithleads.tech",
+    "author": [
+        {
+            "family": "Greenberg",
+            "given": "Gabe"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2018",
+                11,
+                9
+            ]
+        ]
+    },
+    "accessed": {
+        "date-parts": [
+            [
+                "2019",
+                1,
+                25
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology"
+    ]
+}

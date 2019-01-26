@@ -1,0 +1,33 @@
+{
+    "id": "http://zotero.org/users/local/HWAwDThz/items/E7W6VQNA",
+    "type": "motion_picture",
+    "title": "Connecting People to the Church",
+    "URL": "http://faithleads.tech",
+    "author": [
+        {
+            "family": "Runyon",
+            "given": "Nick"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                "2018",
+                11,
+                9
+            ]
+        ]
+    },
+    "accessed": {
+        "date-parts": [
+            [
+                "2019",
+                1,
+                25
+            ]
+        ]
+    },
+    "keyword": [
+        "Technology"
+    ]
+}
