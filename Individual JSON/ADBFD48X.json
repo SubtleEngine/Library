@@ -15,6 +15,15 @@
             "given": "Henry"
         }
     ],
+    "issued": {
+        "date-parts": [
+            [
+                "2018",
+                10,
+                16
+            ]
+        ]
+    },
     "accessed": {
         "date-parts": [
             [
